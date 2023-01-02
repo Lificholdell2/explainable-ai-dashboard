@@ -2,10 +2,30 @@ import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.express as px
+import plotly.graph_objects as go
 import pandas as pd
+import numpy as np
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from src.xai_methods.lime_explainer import LimeExplainer
+from src.xai_methods.shap_explainer import ShapExplainer
+from src.visualizations.dashboard_components import create_feature_importance_bar_chart, create_individual_explanation_waterfall_chart
 
-# Sample data (replace with actual data loading and XAI results)
+# Load sample data and train a simple model
 df = pd.read_csv("data/sample_data.csv")
+X = df.drop("target", axis=1)
+y = df["target"]
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+model = RandomForestClassifier(random_state=42)
+model.fit(X_train, y_train)
+
+feature_names = X.columns.tolist()
+class_names = [str(c) for c in model.classes_]
+
+# Initialize XAI explainers
+lime_explainer = LimeExplainer(model.predict_proba, feature_names, class_names, X_train.values)
+shap_explainer = ShapExplainer(model, X_train)
 
 app = dash.Dash(__name__)
 
@@ -13,16 +33,17 @@ app.layout = html.Div([
     html.H1("Explainable AI Dashboard"),
 
     html.Div([
-        html.H2("Feature Importance"),
-        dcc.Graph(id=\"feature-importance-graph\")
+        html.H2("Global Feature Importance"),
+        dcc.Graph(id="feature-importance-graph")
     ]),
 
     html.Div([
         html.H2("Individual Prediction Explanation"),
+        html.Label("Select Sample:"),
         dcc.Dropdown(
-            id=\"sample-selector\",
-            options=[{'label': str(i), 'value': i} for i in df.index],
-            value=df.index[0]
+            id="sample-selector",
+            options=[{'label': f'Sample {i}', 'value': i} for i in X_test.index],
+            value=X_test.index[0]
         ),
         dcc.Graph(id="individual-explanation-graph")
     ])
@@ -30,30 +51,34 @@ app.layout = html.Div([
 
 @app.callback(
     Output("feature-importance-graph", "figure"),
-    Input("sample-selector", "value") # Not directly used, but triggers update
+    Input("sample-selector", "value") # Trigger on any input change, but global importance is static
 )
-def update_feature_importance(selected_sample):
-    # In a real app, this would come from an XAI method (e.g., SHAP global importance)
-    feature_importance = pd.DataFrame({
-        'Feature': ['Feature A', 'Feature B', 'Feature C', 'Feature D'],
-        'Importance': [0.4, 0.3, 0.2, 0.1]
-    })
-    fig = px.bar(feature_importance, x='Feature', y='Importance', title='Global Feature Importance')
-    return fig
+def update_feature_importance(selected_sample_index):
+    # Using SHAP for global feature importance (mean absolute SHAP values)
+    shap_values = shap_explainer.explainer(X_train)
+    mean_abs_shap_values = np.abs(shap_values.values).mean(axis=0)
+    feature_importance = dict(zip(feature_names, mean_abs_shap_values))
+    return create_feature_importance_bar_chart(feature_importance, title="Global Feature Importance (Mean |SHAP|)")
 
 @app.callback(
     Output("individual-explanation-graph", "figure"),
     Input("sample-selector", "value")
 )
-def update_individual_explanation(selected_sample):
-    # In a real app, this would come from an XAI method (e.g., LIME or SHAP for a single instance)
-    sample_data = df.iloc[selected_sample]
-    explanation_data = pd.DataFrame({
-        'Feature': ['Feature A', 'Feature B', 'Feature C', 'Feature D'],
-        'Contribution': [0.1, -0.05, 0.2, 0.03]
-    })
-    fig = px.bar(explanation_data, x='Feature', y='Contribution', title=f'Explanation for Sample {selected_sample}')
-    return fig
+def update_individual_explanation(selected_sample_index):
+    if selected_sample_index is None:
+        return go.Figure()
+
+    instance = X_test.loc[selected_sample_index].values
+    
+    # Using LIME for individual explanation
+    lime_explanation = lime_explainer.explain_instance(instance)
+    
+    # Convert LIME explanation to a dictionary for the waterfall chart
+    explanation_dict = {feature: value for feature, value in lime_explanation}
+
+    return create_individual_explanation_waterfall_chart(explanation_dict, title=f'LIME Explanation for Sample {selected_sample_index}')
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+# Change on 2023-01-02 13:42:22: chore: Clean up unused visualization assets
