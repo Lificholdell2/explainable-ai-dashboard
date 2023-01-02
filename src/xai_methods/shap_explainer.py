@@ -7,3 +7,5 @@ class ShapExplainer:
     def explain_instance(self, instance):
         shap_values = self.explainer(instance)
         return shap_values
+
+# Change on 2023-01-02 14:32:05: refactor: Modularize XAI method implementations
