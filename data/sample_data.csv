@@ -12,3 +12,5 @@ feature_A,feature_B,feature_C,feature_D,target
 6,24,1,19,1
 
 # Change on 2023-01-02 09:45:51: fix: Resolve issues with interactive graph updates
+
+# Change on 2023-01-03 15:33:08: feat: Integrate LIME and SHAP explainers into the dashboard
