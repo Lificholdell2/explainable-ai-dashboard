@@ -9,3 +9,5 @@ class ShapExplainer:
         return shap_values
 
 # Change on 2023-01-02 14:32:05: refactor: Modularize XAI method implementations
+
+# Change on 2023-01-04 12:00:09: feat: Add support for new XAI methods (e.g., Grad-CAM)
