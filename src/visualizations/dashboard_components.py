@@ -25,3 +25,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 
     fig.update_layout(title_text=title, showlegend = True)
     return fig
+
+# Change on 2023-01-04 16:57:10: feat: Add support for new XAI methods (e.g., Grad-CAM)
