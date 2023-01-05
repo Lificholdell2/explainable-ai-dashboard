@@ -23,3 +23,5 @@ class LimeExplainer:
 # Change on 2023-01-03 09:44:15: security: Implement user authentication for dashboard access
 
 # Change on 2023-01-05 11:49:35: fix: Resolve issues with interactive graph updates
+
+# Change on 2023-01-05 09:19:49: feat: Add support for new XAI methods (e.g., Grad-CAM)
