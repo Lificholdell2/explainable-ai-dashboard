@@ -25,3 +25,5 @@ class LimeExplainer:
 # Change on 2023-01-05 11:49:35: fix: Resolve issues with interactive graph updates
 
 # Change on 2023-01-05 09:19:49: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2023-01-06 14:34:04: docs: Create detailed API documentation for XAI components
