@@ -16,3 +16,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-01-03 15:33:08: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-01-04 10:23:38: refactor: Modularize XAI method implementations
+
+# Change on 2023-01-09 11:11:50: refactor: Modularize XAI method implementations
