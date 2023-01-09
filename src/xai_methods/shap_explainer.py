@@ -11,3 +11,5 @@ class ShapExplainer:
 # Change on 2023-01-02 14:32:05: refactor: Modularize XAI method implementations
 
 # Change on 2023-01-04 12:00:09: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2023-01-09 16:10:34: security: Implement user authentication for dashboard access
