@@ -84,3 +84,5 @@ if __name__ == '__main__':
 # Change on 2023-01-02 13:42:22: chore: Clean up unused visualization assets
 
 # Change on 2023-01-16 14:28:21: docs: Create detailed API documentation for XAI components
+
+# Change on 2023-01-19 11:51:14: chore: Upgrade Dash and Plotly dependencies
