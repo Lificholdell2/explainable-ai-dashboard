@@ -31,3 +31,5 @@ class LimeExplainer:
 # Change on 2023-01-10 11:50:01: chore: Clean up unused visualization assets
 
 # Change on 2023-01-26 17:48:32: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-02-01 15:12:49: chore: Upgrade Dash and Plotly dependencies
