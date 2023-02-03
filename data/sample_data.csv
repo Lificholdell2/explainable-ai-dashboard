@@ -26,3 +26,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-02-01 14:09:21: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2023-02-03 11:28:36: security: Implement user authentication for dashboard access
+
+# Change on 2023-02-03 12:49:31: feat: Integrate LIME and SHAP explainers into the dashboard
