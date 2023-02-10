@@ -35,3 +35,5 @@ class LimeExplainer:
 # Change on 2023-02-01 15:12:49: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-02-06 16:44:35: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-02-10 10:52:41: feat: Integrate LIME and SHAP explainers into the dashboard
