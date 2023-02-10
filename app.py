@@ -98,3 +98,5 @@ if __name__ == '__main__':
 # Change on 2023-02-06 12:28:16: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-02-07 09:17:17: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2023-02-10 09:04:49: refactor: Improve dashboard layout and responsiveness
