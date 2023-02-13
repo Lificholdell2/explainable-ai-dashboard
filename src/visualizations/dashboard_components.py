@@ -45,3 +45,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-02-07 15:03:55: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2023-02-13 12:27:19: chore: Clean up unused visualization assets
+
+# Change on 2023-02-13 09:17:04: docs: Create detailed API documentation for XAI components
