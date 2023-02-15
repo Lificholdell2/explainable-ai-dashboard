@@ -106,3 +106,5 @@ if __name__ == '__main__':
 # Change on 2023-02-14 13:48:06: refactor: Modularize XAI method implementations
 
 # Change on 2023-02-14 17:03:39: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2023-02-15 15:03:20: build: Set up Dockerfile for dashboard deployment
