@@ -39,3 +39,5 @@ class LimeExplainer:
 # Change on 2023-02-10 10:52:41: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-02-14 10:37:18: refactor: Modularize XAI method implementations
+
+# Change on 2023-02-15 17:37:53: test: Add unit tests for XAI explanation generation
