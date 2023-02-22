@@ -41,3 +41,5 @@ class LimeExplainer:
 # Change on 2023-02-14 10:37:18: refactor: Modularize XAI method implementations
 
 # Change on 2023-02-15 17:37:53: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-02-22 16:03:20: build: Set up Dockerfile for dashboard deployment
