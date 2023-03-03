@@ -27,3 +27,5 @@ class ShapExplainer:
 # Change on 2023-02-15 12:27:16: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2023-02-21 12:47:29: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-03-03 11:53:16: build: Set up Dockerfile for dashboard deployment
