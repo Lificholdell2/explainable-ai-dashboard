@@ -53,3 +53,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-02-21 15:44:49: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-02-24 12:07:44: fix: Resolve issues with interactive graph updates
+
+# Change on 2023-03-09 16:02:44: chore: Clean up unused visualization assets
