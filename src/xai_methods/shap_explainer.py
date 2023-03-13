@@ -29,3 +29,5 @@ class ShapExplainer:
 # Change on 2023-02-21 12:47:29: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-03-03 11:53:16: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-03-13 17:46:36: security: Implement user authentication for dashboard access
