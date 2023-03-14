@@ -114,3 +114,5 @@ if __name__ == '__main__':
 # Change on 2023-02-21 09:33:00: security: Implement user authentication for dashboard access
 
 # Change on 2023-02-28 09:23:52: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2023-03-14 11:59:15: chore: Clean up unused visualization assets
