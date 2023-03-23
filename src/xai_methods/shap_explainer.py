@@ -33,3 +33,5 @@ class ShapExplainer:
 # Change on 2023-03-13 17:46:36: security: Implement user authentication for dashboard access
 
 # Change on 2023-03-22 13:34:06: fix: Resolve issues with interactive graph updates
+
+# Change on 2023-03-23 12:12:24: refactor: Modularize XAI method implementations
