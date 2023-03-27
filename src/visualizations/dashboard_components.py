@@ -59,3 +59,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-03-14 14:09:19: style: Apply consistent styling to dashboard components
 
 # Change on 2023-03-14 13:33:50: docs: Create detailed API documentation for XAI components
+
+# Change on 2023-03-27 12:08:44: docs: Create detailed API documentation for XAI components
