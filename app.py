@@ -126,3 +126,5 @@ if __name__ == '__main__':
 # Change on 2023-03-28 13:26:21: fix: Resolve issues with interactive graph updates
 
 # Change on 2023-03-29 16:48:44: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2023-03-29 13:24:27: build: Set up Dockerfile for dashboard deployment
