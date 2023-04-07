@@ -128,3 +128,5 @@ if __name__ == '__main__':
 # Change on 2023-03-29 16:48:44: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-03-29 13:24:27: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-04-07 09:57:52: style: Apply consistent styling to dashboard components
