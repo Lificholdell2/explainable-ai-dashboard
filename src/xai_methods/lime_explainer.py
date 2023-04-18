@@ -53,3 +53,5 @@ class LimeExplainer:
 # Change on 2023-03-20 12:27:12: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2023-04-07 09:13:40: style: Apply consistent styling to dashboard components
+
+# Change on 2023-04-18 17:44:06: style: Apply consistent styling to dashboard components
