@@ -52,3 +52,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-03-24 14:17:01: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-03-28 17:00:31: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2023-04-19 10:40:08: build: Set up Dockerfile for dashboard deployment
