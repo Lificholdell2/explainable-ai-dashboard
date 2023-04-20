@@ -35,3 +35,5 @@ class ShapExplainer:
 # Change on 2023-03-22 13:34:06: fix: Resolve issues with interactive graph updates
 
 # Change on 2023-03-23 12:12:24: refactor: Modularize XAI method implementations
+
+# Change on 2023-04-20 13:35:02: perf: Optimize visualization rendering for large datasets
