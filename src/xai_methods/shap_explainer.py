@@ -37,3 +37,5 @@ class ShapExplainer:
 # Change on 2023-03-23 12:12:24: refactor: Modularize XAI method implementations
 
 # Change on 2023-04-20 13:35:02: perf: Optimize visualization rendering for large datasets
+
+# Change on 2023-04-20 12:55:11: docs: Update usage instructions for running the XAI dashboard
