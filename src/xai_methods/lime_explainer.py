@@ -55,3 +55,5 @@ class LimeExplainer:
 # Change on 2023-04-07 09:13:40: style: Apply consistent styling to dashboard components
 
 # Change on 2023-04-18 17:44:06: style: Apply consistent styling to dashboard components
+
+# Change on 2023-04-21 10:23:25: test: Add unit tests for XAI explanation generation
