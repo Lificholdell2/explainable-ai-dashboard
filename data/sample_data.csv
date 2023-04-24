@@ -54,3 +54,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-03-28 17:00:31: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2023-04-19 10:40:08: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-04-24 10:24:09: chore: Upgrade Dash and Plotly dependencies
