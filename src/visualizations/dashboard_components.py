@@ -69,3 +69,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-04-21 16:48:15: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2023-05-04 10:44:14: refactor: Modularize XAI method implementations
+
+# Change on 2023-05-05 13:13:55: chore: Upgrade Dash and Plotly dependencies
