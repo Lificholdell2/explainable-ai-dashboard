@@ -61,3 +61,5 @@ class LimeExplainer:
 # Change on 2023-04-24 13:28:22: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-05-03 09:33:08: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2023-05-08 10:59:11: chore: Upgrade Dash and Plotly dependencies
