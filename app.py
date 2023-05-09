@@ -138,3 +138,5 @@ if __name__ == '__main__':
 # Change on 2023-05-02 14:05:01: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-05-02 14:31:06: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-05-09 15:39:34: feat: Add support for new XAI methods (e.g., Grad-CAM)
