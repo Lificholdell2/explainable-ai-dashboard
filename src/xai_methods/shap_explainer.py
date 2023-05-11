@@ -43,3 +43,5 @@ class ShapExplainer:
 # Change on 2023-04-21 13:29:50: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2023-05-10 09:18:36: security: Implement user authentication for dashboard access
+
+# Change on 2023-05-11 13:10:18: docs: Create detailed API documentation for XAI components
