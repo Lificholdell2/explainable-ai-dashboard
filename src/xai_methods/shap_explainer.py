@@ -45,3 +45,5 @@ class ShapExplainer:
 # Change on 2023-05-10 09:18:36: security: Implement user authentication for dashboard access
 
 # Change on 2023-05-11 13:10:18: docs: Create detailed API documentation for XAI components
+
+# Change on 2023-05-11 16:40:55: refactor: Modularize XAI method implementations
