@@ -58,3 +58,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-04-24 10:24:09: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-05-05 16:01:27: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-05-12 16:15:33: perf: Optimize visualization rendering for large datasets
