@@ -63,3 +63,5 @@ class LimeExplainer:
 # Change on 2023-05-03 09:33:08: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2023-05-08 10:59:11: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-05-15 10:24:13: test: Add unit tests for XAI explanation generation
