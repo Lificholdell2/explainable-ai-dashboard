@@ -67,3 +67,5 @@ class LimeExplainer:
 # Change on 2023-05-15 10:24:13: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-05-18 12:07:17: chore: Clean up unused visualization assets
+
+# Change on 2023-05-18 09:57:09: fix: Resolve issues with interactive graph updates
