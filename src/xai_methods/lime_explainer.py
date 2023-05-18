@@ -65,3 +65,5 @@ class LimeExplainer:
 # Change on 2023-05-08 10:59:11: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-05-15 10:24:13: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-05-18 12:07:17: chore: Clean up unused visualization assets
