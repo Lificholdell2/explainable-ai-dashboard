@@ -142,3 +142,5 @@ if __name__ == '__main__':
 # Change on 2023-05-09 15:39:34: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2023-05-15 10:15:19: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-05-25 11:54:54: chore: Upgrade Dash and Plotly dependencies
