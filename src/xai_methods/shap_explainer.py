@@ -53,3 +53,5 @@ class ShapExplainer:
 # Change on 2023-05-26 09:12:55: security: Implement user authentication for dashboard access
 
 # Change on 2023-05-30 11:46:32: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2023-05-31 13:18:41: docs: Create detailed API documentation for XAI components
