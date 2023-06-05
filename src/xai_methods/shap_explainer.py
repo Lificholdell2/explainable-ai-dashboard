@@ -55,3 +55,5 @@ class ShapExplainer:
 # Change on 2023-05-30 11:46:32: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-05-31 13:18:41: docs: Create detailed API documentation for XAI components
+
+# Change on 2023-06-05 15:53:23: build: Set up Dockerfile for dashboard deployment
