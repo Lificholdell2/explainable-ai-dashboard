@@ -57,3 +57,5 @@ class ShapExplainer:
 # Change on 2023-05-31 13:18:41: docs: Create detailed API documentation for XAI components
 
 # Change on 2023-06-05 15:53:23: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-06-09 14:33:39: style: Apply consistent styling to dashboard components
