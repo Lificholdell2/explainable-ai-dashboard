@@ -78,3 +78,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-06-09 17:34:22: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-06-13 10:49:41: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2023-06-15 16:40:50: docs: Update usage instructions for running the XAI dashboard
