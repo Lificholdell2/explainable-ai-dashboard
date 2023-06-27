@@ -79,3 +79,5 @@ class LimeExplainer:
 # Change on 2023-06-02 15:01:33: style: Apply consistent styling to dashboard components
 
 # Change on 2023-06-27 09:55:00: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-06-27 13:54:19: docs: Update usage instructions for running the XAI dashboard
