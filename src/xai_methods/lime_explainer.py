@@ -77,3 +77,5 @@ class LimeExplainer:
 # Change on 2023-06-01 12:14:20: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-06-02 15:01:33: style: Apply consistent styling to dashboard components
+
+# Change on 2023-06-27 09:55:00: chore: Upgrade Dash and Plotly dependencies
