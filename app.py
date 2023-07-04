@@ -154,3 +154,5 @@ if __name__ == '__main__':
 # Change on 2023-06-05 11:13:20: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2023-06-19 12:18:28: chore: Clean up unused visualization assets
+
+# Change on 2023-07-04 09:44:54: docs: Update usage instructions for running the XAI dashboard
