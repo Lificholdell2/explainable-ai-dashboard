@@ -83,3 +83,5 @@ class LimeExplainer:
 # Change on 2023-06-27 13:54:19: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2023-06-28 11:20:20: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2023-07-12 13:33:24: fix: Resolve issues with interactive graph updates
