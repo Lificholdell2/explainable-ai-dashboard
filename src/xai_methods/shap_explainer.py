@@ -65,3 +65,5 @@ class ShapExplainer:
 # Change on 2023-07-05 11:43:26: security: Implement user authentication for dashboard access
 
 # Change on 2023-07-14 09:55:29: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-07-14 15:40:09: security: Implement user authentication for dashboard access
