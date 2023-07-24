@@ -69,3 +69,5 @@ class ShapExplainer:
 # Change on 2023-07-14 15:40:09: security: Implement user authentication for dashboard access
 
 # Change on 2023-07-20 17:10:48: chore: Clean up unused visualization assets
+
+# Change on 2023-07-24 15:02:56: perf: Optimize visualization rendering for large datasets
