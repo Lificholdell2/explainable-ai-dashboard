@@ -98,3 +98,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-07-17 17:23:46: docs: Create detailed API documentation for XAI components
 
 # Change on 2023-07-28 13:47:47: chore: Clean up unused visualization assets
+
+# Change on 2023-07-28 10:32:22: fix: Resolve issues with interactive graph updates
