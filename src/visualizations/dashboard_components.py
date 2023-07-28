@@ -97,3 +97,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-07-17 15:24:29: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2023-07-25 12:06:03: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-07-28 16:53:59: chore: Upgrade Dash and Plotly dependencies
