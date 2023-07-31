@@ -89,3 +89,5 @@ class LimeExplainer:
 # Change on 2023-07-24 12:20:19: security: Implement user authentication for dashboard access
 
 # Change on 2023-07-31 11:40:21: refactor: Modularize XAI method implementations
+
+# Change on 2023-07-31 16:34:25: build: Set up Dockerfile for dashboard deployment
