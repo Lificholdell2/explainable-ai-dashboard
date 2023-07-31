@@ -87,3 +87,5 @@ class LimeExplainer:
 # Change on 2023-07-12 13:33:24: fix: Resolve issues with interactive graph updates
 
 # Change on 2023-07-24 12:20:19: security: Implement user authentication for dashboard access
+
+# Change on 2023-07-31 11:40:21: refactor: Modularize XAI method implementations
