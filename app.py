@@ -170,3 +170,5 @@ if __name__ == '__main__':
 # Change on 2023-07-25 14:38:36: style: Apply consistent styling to dashboard components
 
 # Change on 2023-08-02 16:26:47: security: Implement user authentication for dashboard access
+
+# Change on 2023-08-08 09:27:47: docs: Update usage instructions for running the XAI dashboard
