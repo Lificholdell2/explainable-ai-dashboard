@@ -91,3 +91,5 @@ class LimeExplainer:
 # Change on 2023-07-31 11:40:21: refactor: Modularize XAI method implementations
 
 # Change on 2023-07-31 16:34:25: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-08-18 11:08:31: chore: Upgrade Dash and Plotly dependencies
