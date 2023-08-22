@@ -176,3 +176,5 @@ if __name__ == '__main__':
 # Change on 2023-08-08 17:28:57: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2023-08-14 16:18:23: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2023-08-22 12:25:30: docs: Update usage instructions for running the XAI dashboard
