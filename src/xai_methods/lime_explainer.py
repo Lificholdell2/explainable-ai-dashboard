@@ -97,3 +97,5 @@ class LimeExplainer:
 # Change on 2023-08-22 13:01:11: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-08-22 17:35:27: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2023-08-24 12:51:15: test: Add unit tests for XAI explanation generation
