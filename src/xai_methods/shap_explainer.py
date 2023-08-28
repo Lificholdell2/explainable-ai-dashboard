@@ -77,3 +77,5 @@ class ShapExplainer:
 # Change on 2023-08-18 17:59:26: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-08-21 10:59:18: fix: Resolve issues with interactive graph updates
+
+# Change on 2023-08-28 14:58:31: refactor: Modularize XAI method implementations
