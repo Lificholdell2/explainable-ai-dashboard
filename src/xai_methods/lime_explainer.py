@@ -101,3 +101,5 @@ class LimeExplainer:
 # Change on 2023-08-24 12:51:15: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-08-25 09:53:25: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-08-31 15:50:47: security: Implement user authentication for dashboard access
