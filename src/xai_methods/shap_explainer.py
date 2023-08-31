@@ -79,3 +79,5 @@ class ShapExplainer:
 # Change on 2023-08-21 10:59:18: fix: Resolve issues with interactive graph updates
 
 # Change on 2023-08-28 14:58:31: refactor: Modularize XAI method implementations
+
+# Change on 2023-08-31 15:00:22: build: Set up Dockerfile for dashboard deployment
