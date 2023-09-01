@@ -81,3 +81,5 @@ class ShapExplainer:
 # Change on 2023-08-28 14:58:31: refactor: Modularize XAI method implementations
 
 # Change on 2023-08-31 15:00:22: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-09-01 12:54:45: chore: Upgrade Dash and Plotly dependencies
