@@ -105,3 +105,5 @@ class LimeExplainer:
 # Change on 2023-08-31 15:50:47: security: Implement user authentication for dashboard access
 
 # Change on 2023-09-01 09:45:52: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-09-04 16:31:27: build: Set up Dockerfile for dashboard deployment
