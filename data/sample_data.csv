@@ -118,3 +118,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-08-25 13:20:39: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2023-08-29 15:52:19: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2023-09-05 14:46:54: chore: Upgrade Dash and Plotly dependencies
