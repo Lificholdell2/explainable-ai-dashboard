@@ -109,3 +109,5 @@ class LimeExplainer:
 # Change on 2023-09-04 16:31:27: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2023-09-06 10:29:48: fix: Resolve issues with interactive graph updates
+
+# Change on 2023-09-06 17:26:23: refactor: Improve dashboard layout and responsiveness
