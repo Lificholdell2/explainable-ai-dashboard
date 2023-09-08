@@ -113,3 +113,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-09-05 10:07:12: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2023-09-07 13:51:30: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2023-09-08 15:27:13: security: Implement user authentication for dashboard access
