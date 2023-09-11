@@ -117,3 +117,5 @@ class LimeExplainer:
 # Change on 2023-09-07 14:49:56: fix: Resolve issues with interactive graph updates
 
 # Change on 2023-09-08 13:50:35: perf: Optimize visualization rendering for large datasets
+
+# Change on 2023-09-11 09:33:17: fix: Resolve issues with interactive graph updates
