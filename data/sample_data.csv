@@ -122,3 +122,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-09-05 14:46:54: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-09-05 09:05:52: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2023-09-13 11:52:22: fix: Correct data loading and preprocessing for XAI models
