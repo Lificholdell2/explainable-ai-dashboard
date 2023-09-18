@@ -184,3 +184,5 @@ if __name__ == '__main__':
 # Change on 2023-09-06 13:54:39: perf: Optimize visualization rendering for large datasets
 
 # Change on 2023-09-14 10:26:19: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-09-18 10:23:36: docs: Update usage instructions for running the XAI dashboard
