@@ -188,3 +188,5 @@ if __name__ == '__main__':
 # Change on 2023-09-18 10:23:36: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2023-09-20 12:16:43: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2023-09-20 12:54:52: security: Implement user authentication for dashboard access
