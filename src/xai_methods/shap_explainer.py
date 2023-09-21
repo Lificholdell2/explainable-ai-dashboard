@@ -85,3 +85,5 @@ class ShapExplainer:
 # Change on 2023-09-01 12:54:45: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-09-11 11:20:03: security: Implement user authentication for dashboard access
+
+# Change on 2023-09-21 09:03:47: security: Implement user authentication for dashboard access
