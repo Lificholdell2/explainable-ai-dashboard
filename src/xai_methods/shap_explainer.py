@@ -89,3 +89,5 @@ class ShapExplainer:
 # Change on 2023-09-21 09:03:47: security: Implement user authentication for dashboard access
 
 # Change on 2023-09-22 17:48:42: refactor: Modularize XAI method implementations
+
+# Change on 2023-09-25 16:25:57: chore: Clean up unused visualization assets
