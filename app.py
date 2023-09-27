@@ -194,3 +194,5 @@ if __name__ == '__main__':
 # Change on 2023-09-22 15:04:17: perf: Optimize visualization rendering for large datasets
 
 # Change on 2023-09-26 09:07:08: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-09-27 12:29:41: feat: Add support for new XAI methods (e.g., Grad-CAM)
