@@ -121,3 +121,5 @@ class LimeExplainer:
 # Change on 2023-09-11 09:33:17: fix: Resolve issues with interactive graph updates
 
 # Change on 2023-09-15 16:32:34: docs: Create detailed API documentation for XAI components
+
+# Change on 2023-09-27 10:25:52: refactor: Improve dashboard layout and responsiveness
