@@ -91,3 +91,5 @@ class ShapExplainer:
 # Change on 2023-09-22 17:48:42: refactor: Modularize XAI method implementations
 
 # Change on 2023-09-25 16:25:57: chore: Clean up unused visualization assets
+
+# Change on 2023-10-02 11:58:27: chore: Upgrade Dash and Plotly dependencies
