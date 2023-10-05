@@ -127,3 +127,5 @@ class LimeExplainer:
 # Change on 2023-09-28 15:57:25: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2023-09-29 15:44:02: refactor: Modularize XAI method implementations
+
+# Change on 2023-10-05 17:16:34: test: Add unit tests for XAI explanation generation
