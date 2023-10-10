@@ -204,3 +204,5 @@ if __name__ == '__main__':
 # Change on 2023-10-03 15:01:58: refactor: Modularize XAI method implementations
 
 # Change on 2023-10-05 11:50:20: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2023-10-10 15:15:15: fix: Resolve issues with interactive graph updates
