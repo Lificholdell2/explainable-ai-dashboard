@@ -206,3 +206,5 @@ if __name__ == '__main__':
 # Change on 2023-10-05 11:50:20: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2023-10-10 15:15:15: fix: Resolve issues with interactive graph updates
+
+# Change on 2023-10-11 09:06:49: docs: Create detailed API documentation for XAI components
