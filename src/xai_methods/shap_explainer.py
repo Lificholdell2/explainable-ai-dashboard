@@ -93,3 +93,5 @@ class ShapExplainer:
 # Change on 2023-09-25 16:25:57: chore: Clean up unused visualization assets
 
 # Change on 2023-10-02 11:58:27: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-10-16 17:39:17: fix: Resolve issues with interactive graph updates
