@@ -131,3 +131,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-10-10 14:18:53: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-10-12 10:01:52: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-10-23 10:39:56: fix: Correct data loading and preprocessing for XAI models
