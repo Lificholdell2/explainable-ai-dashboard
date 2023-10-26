@@ -210,3 +210,5 @@ if __name__ == '__main__':
 # Change on 2023-10-11 09:06:49: docs: Create detailed API documentation for XAI components
 
 # Change on 2023-10-16 16:50:38: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2023-10-26 10:51:35: refactor: Improve dashboard layout and responsiveness
