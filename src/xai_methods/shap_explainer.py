@@ -99,3 +99,5 @@ class ShapExplainer:
 # Change on 2023-10-16 12:13:16: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2023-10-23 16:07:52: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2023-10-27 15:52:55: fix: Resolve issues with interactive graph updates
