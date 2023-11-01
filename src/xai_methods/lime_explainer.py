@@ -135,3 +135,5 @@ class LimeExplainer:
 # Change on 2023-10-12 11:31:35: security: Implement user authentication for dashboard access
 
 # Change on 2023-10-24 11:56:13: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2023-11-01 12:48:29: perf: Optimize visualization rendering for large datasets
