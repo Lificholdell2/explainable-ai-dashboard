@@ -141,3 +141,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-11-01 15:32:22: perf: Optimize visualization rendering for large datasets
 
 # Change on 2023-11-03 13:00:23: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2023-11-06 15:02:47: build: Set up Dockerfile for dashboard deployment
