@@ -148,3 +148,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-10-19 10:45:56: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-10-27 13:11:08: docs: Create detailed API documentation for XAI components
+
+# Change on 2023-11-06 12:20:47: chore: Clean up unused visualization assets
