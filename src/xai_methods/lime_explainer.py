@@ -137,3 +137,5 @@ class LimeExplainer:
 # Change on 2023-10-24 11:56:13: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2023-11-01 12:48:29: perf: Optimize visualization rendering for large datasets
+
+# Change on 2023-11-07 12:27:58: style: Apply consistent styling to dashboard components
