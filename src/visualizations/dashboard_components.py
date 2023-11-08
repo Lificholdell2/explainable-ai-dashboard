@@ -145,3 +145,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-11-06 15:02:47: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2023-11-07 17:07:55: docs: Create detailed API documentation for XAI components
+
+# Change on 2023-11-08 15:51:41: docs: Update usage instructions for running the XAI dashboard
