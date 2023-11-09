@@ -139,3 +139,5 @@ class LimeExplainer:
 # Change on 2023-11-01 12:48:29: perf: Optimize visualization rendering for large datasets
 
 # Change on 2023-11-07 12:27:58: style: Apply consistent styling to dashboard components
+
+# Change on 2023-11-09 16:18:17: feat: Add support for new XAI methods (e.g., Grad-CAM)
