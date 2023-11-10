@@ -143,3 +143,5 @@ class LimeExplainer:
 # Change on 2023-11-09 16:18:17: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2023-11-10 17:46:32: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2023-11-10 13:27:14: chore: Clean up unused visualization assets
