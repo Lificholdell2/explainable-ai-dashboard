@@ -220,3 +220,5 @@ if __name__ == '__main__':
 # Change on 2023-11-09 14:00:40: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2023-11-13 11:49:22: refactor: Modularize XAI method implementations
+
+# Change on 2023-11-14 16:42:18: chore: Clean up unused visualization assets
