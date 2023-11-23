@@ -107,3 +107,5 @@ class ShapExplainer:
 # Change on 2023-11-09 11:27:45: chore: Clean up unused visualization assets
 
 # Change on 2023-11-22 14:44:09: chore: Clean up unused visualization assets
+
+# Change on 2023-11-23 15:48:53: feat: Add support for new XAI methods (e.g., Grad-CAM)
