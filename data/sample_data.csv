@@ -156,3 +156,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2023-11-10 16:22:20: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-11-20 14:14:22: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-11-24 16:02:43: test: Add unit tests for XAI explanation generation
