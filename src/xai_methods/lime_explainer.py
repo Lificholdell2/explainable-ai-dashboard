@@ -151,3 +151,5 @@ class LimeExplainer:
 # Change on 2023-11-20 17:42:25: security: Implement user authentication for dashboard access
 
 # Change on 2023-11-21 16:26:08: refactor: Modularize XAI method implementations
+
+# Change on 2023-12-01 15:04:25: chore: Upgrade Dash and Plotly dependencies
