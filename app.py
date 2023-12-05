@@ -230,3 +230,5 @@ if __name__ == '__main__':
 # Change on 2023-11-28 12:18:09: refactor: Modularize XAI method implementations
 
 # Change on 2023-11-29 11:48:14: test: Add unit tests for XAI explanation generation
+
+# Change on 2023-12-05 14:42:35: feat: Add support for new XAI methods (e.g., Grad-CAM)
