@@ -155,3 +155,5 @@ class LimeExplainer:
 # Change on 2023-12-01 15:04:25: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-12-04 14:27:54: chore: Clean up unused visualization assets
+
+# Change on 2023-12-08 09:04:20: style: Apply consistent styling to dashboard components
