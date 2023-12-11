@@ -159,3 +159,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-12-05 10:13:59: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2023-12-06 12:21:09: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2023-12-11 11:30:28: feat: Integrate LIME and SHAP explainers into the dashboard
