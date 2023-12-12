@@ -163,3 +163,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2023-12-11 11:30:28: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2023-12-11 11:48:23: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2023-12-12 12:14:00: feat: Add support for new XAI methods (e.g., Grad-CAM)
