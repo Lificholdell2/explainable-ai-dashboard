@@ -232,3 +232,5 @@ if __name__ == '__main__':
 # Change on 2023-11-29 11:48:14: test: Add unit tests for XAI explanation generation
 
 # Change on 2023-12-05 14:42:35: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2023-12-13 13:48:06: chore: Upgrade Dash and Plotly dependencies
