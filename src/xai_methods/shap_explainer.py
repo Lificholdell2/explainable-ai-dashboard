@@ -111,3 +111,5 @@ class ShapExplainer:
 # Change on 2023-11-23 15:48:53: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2023-12-19 16:55:35: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2023-12-22 17:26:32: build: Set up Dockerfile for dashboard deployment
