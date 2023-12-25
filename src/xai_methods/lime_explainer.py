@@ -159,3 +159,5 @@ class LimeExplainer:
 # Change on 2023-12-08 09:04:20: style: Apply consistent styling to dashboard components
 
 # Change on 2023-12-19 14:43:58: security: Implement user authentication for dashboard access
+
+# Change on 2023-12-25 13:02:39: refactor: Improve dashboard layout and responsiveness
