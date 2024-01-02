@@ -113,3 +113,5 @@ class ShapExplainer:
 # Change on 2023-12-19 16:55:35: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2023-12-22 17:26:32: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-01-02 11:52:06: fix: Correct data loading and preprocessing for XAI models
