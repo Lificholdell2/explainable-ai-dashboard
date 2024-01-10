@@ -236,3 +236,5 @@ if __name__ == '__main__':
 # Change on 2023-12-13 13:48:06: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2023-12-29 14:29:56: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-01-10 10:50:43: test: Add unit tests for XAI explanation generation
