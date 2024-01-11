@@ -115,3 +115,5 @@ class ShapExplainer:
 # Change on 2023-12-22 17:26:32: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2024-01-02 11:52:06: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2024-01-11 11:39:15: feat: Add support for new XAI methods (e.g., Grad-CAM)
