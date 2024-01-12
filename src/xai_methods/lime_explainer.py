@@ -165,3 +165,5 @@ class LimeExplainer:
 # Change on 2023-12-27 12:45:48: perf: Optimize visualization rendering for large datasets
 
 # Change on 2024-01-01 10:04:18: security: Implement user authentication for dashboard access
+
+# Change on 2024-01-12 12:38:38: fix: Correct data loading and preprocessing for XAI models
