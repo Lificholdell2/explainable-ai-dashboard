@@ -117,3 +117,5 @@ class ShapExplainer:
 # Change on 2024-01-02 11:52:06: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-01-11 11:39:15: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2024-01-17 13:25:34: feat: Integrate LIME and SHAP explainers into the dashboard
