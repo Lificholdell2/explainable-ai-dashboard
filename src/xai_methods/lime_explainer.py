@@ -167,3 +167,5 @@ class LimeExplainer:
 # Change on 2024-01-01 10:04:18: security: Implement user authentication for dashboard access
 
 # Change on 2024-01-12 12:38:38: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2024-01-17 10:12:51: feat: Integrate LIME and SHAP explainers into the dashboard
