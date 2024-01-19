@@ -182,3 +182,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-01-03 17:55:42: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-01-15 12:04:46: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-01-19 10:27:21: perf: Optimize visualization rendering for large datasets
