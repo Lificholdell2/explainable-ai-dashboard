@@ -240,3 +240,5 @@ if __name__ == '__main__':
 # Change on 2024-01-10 10:50:43: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-01-12 13:41:05: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2024-01-23 14:55:13: refactor: Improve dashboard layout and responsiveness
