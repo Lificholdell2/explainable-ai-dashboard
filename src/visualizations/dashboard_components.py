@@ -185,3 +185,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-01-18 15:20:18: fix: Resolve issues with interactive graph updates
 
 # Change on 2024-01-25 16:18:50: perf: Optimize visualization rendering for large datasets
+
+# Change on 2024-01-25 11:24:59: feat: Add support for new XAI methods (e.g., Grad-CAM)
