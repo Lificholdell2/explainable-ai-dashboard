@@ -127,3 +127,5 @@ class ShapExplainer:
 # Change on 2024-01-22 17:35:09: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-01-23 13:40:03: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-01-29 16:55:44: build: Set up Dockerfile for dashboard deployment
