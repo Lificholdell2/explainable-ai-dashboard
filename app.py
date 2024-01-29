@@ -242,3 +242,5 @@ if __name__ == '__main__':
 # Change on 2024-01-12 13:41:05: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-01-23 14:55:13: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-01-29 12:48:02: chore: Clean up unused visualization assets
