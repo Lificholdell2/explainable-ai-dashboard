@@ -183,3 +183,5 @@ class LimeExplainer:
 # Change on 2024-02-01 15:03:36: docs: Create detailed API documentation for XAI components
 
 # Change on 2024-02-01 11:00:53: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2024-02-01 13:12:25: refactor: Modularize XAI method implementations
