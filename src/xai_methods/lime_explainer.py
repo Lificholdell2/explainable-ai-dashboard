@@ -185,3 +185,5 @@ class LimeExplainer:
 # Change on 2024-02-01 11:00:53: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2024-02-01 13:12:25: refactor: Modularize XAI method implementations
+
+# Change on 2024-02-06 16:42:42: style: Apply consistent styling to dashboard components
