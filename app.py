@@ -248,3 +248,5 @@ if __name__ == '__main__':
 # Change on 2024-01-30 16:21:01: refactor: Modularize XAI method implementations
 
 # Change on 2024-02-06 16:48:04: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-02-09 10:02:08: test: Add unit tests for XAI explanation generation
