@@ -188,3 +188,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-02-02 16:07:18: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-02-09 16:07:02: security: Implement user authentication for dashboard access
+
+# Change on 2024-02-12 13:47:50: perf: Optimize visualization rendering for large datasets
