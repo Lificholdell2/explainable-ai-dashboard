@@ -193,3 +193,5 @@ class LimeExplainer:
 # Change on 2024-02-12 13:23:54: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-02-12 12:56:12: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-02-19 17:05:35: feat: Add support for new XAI methods (e.g., Grad-CAM)
