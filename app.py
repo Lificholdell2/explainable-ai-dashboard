@@ -252,3 +252,5 @@ if __name__ == '__main__':
 # Change on 2024-02-09 10:02:08: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-02-16 09:38:08: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-02-20 09:12:13: docs: Create detailed API documentation for XAI components
