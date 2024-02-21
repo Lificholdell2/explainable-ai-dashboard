@@ -254,3 +254,5 @@ if __name__ == '__main__':
 # Change on 2024-02-16 09:38:08: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-02-20 09:12:13: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-02-21 11:50:47: fix: Resolve issues with interactive graph updates
