@@ -199,3 +199,5 @@ class LimeExplainer:
 # Change on 2024-02-21 11:53:43: docs: Create detailed API documentation for XAI components
 
 # Change on 2024-02-23 14:51:20: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-02-29 14:36:43: refactor: Modularize XAI method implementations
