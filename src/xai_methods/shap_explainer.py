@@ -139,3 +139,5 @@ class ShapExplainer:
 # Change on 2024-02-19 15:47:41: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-02-21 09:00:59: fix: Resolve issues with interactive graph updates
+
+# Change on 2024-02-29 14:49:47: refactor: Improve dashboard layout and responsiveness
