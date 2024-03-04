@@ -197,3 +197,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-02-19 10:14:00: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2024-02-20 14:25:46: test: Add unit tests for XAI explanation generation
+
+# Change on 2024-03-04 11:30:52: docs: Create detailed API documentation for XAI components
