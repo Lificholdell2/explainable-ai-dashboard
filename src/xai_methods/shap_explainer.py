@@ -143,3 +143,5 @@ class ShapExplainer:
 # Change on 2024-02-29 14:49:47: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-02-29 12:02:53: chore: Clean up unused visualization assets
+
+# Change on 2024-03-04 09:58:34: chore: Upgrade Dash and Plotly dependencies
