@@ -194,3 +194,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-02-23 14:13:56: fix: Resolve issues with interactive graph updates
 
 # Change on 2024-02-27 09:01:36: fix: Resolve issues with interactive graph updates
+
+# Change on 2024-03-05 15:48:21: chore: Clean up unused visualization assets
