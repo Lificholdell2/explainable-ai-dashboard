@@ -203,3 +203,5 @@ class LimeExplainer:
 # Change on 2024-02-29 14:36:43: refactor: Modularize XAI method implementations
 
 # Change on 2024-03-05 09:04:47: fix: Resolve issues with interactive graph updates
+
+# Change on 2024-03-06 16:13:06: build: Set up Dockerfile for dashboard deployment
