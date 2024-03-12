@@ -264,3 +264,5 @@ if __name__ == '__main__':
 # Change on 2024-02-27 17:42:00: refactor: Modularize XAI method implementations
 
 # Change on 2024-03-07 12:35:32: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-03-12 13:11:19: docs: Update usage instructions for running the XAI dashboard
