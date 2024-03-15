@@ -270,3 +270,5 @@ if __name__ == '__main__':
 # Change on 2024-03-14 16:21:11: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-03-15 17:10:45: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-03-15 12:11:59: chore: Upgrade Dash and Plotly dependencies
