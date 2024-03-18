@@ -205,3 +205,5 @@ class LimeExplainer:
 # Change on 2024-03-05 09:04:47: fix: Resolve issues with interactive graph updates
 
 # Change on 2024-03-06 16:13:06: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-03-18 14:16:04: feat: Add support for new XAI methods (e.g., Grad-CAM)
