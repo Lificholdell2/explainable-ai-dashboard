@@ -209,3 +209,5 @@ class LimeExplainer:
 # Change on 2024-03-18 14:16:04: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2024-03-20 17:17:50: perf: Optimize visualization rendering for large datasets
+
+# Change on 2024-03-21 11:02:28: docs: Create detailed API documentation for XAI components
