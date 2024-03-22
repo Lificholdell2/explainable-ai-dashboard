@@ -211,3 +211,5 @@ class LimeExplainer:
 # Change on 2024-03-20 17:17:50: perf: Optimize visualization rendering for large datasets
 
 # Change on 2024-03-21 11:02:28: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-03-22 10:20:27: docs: Update usage instructions for running the XAI dashboard
