@@ -217,3 +217,5 @@ class LimeExplainer:
 # Change on 2024-03-22 13:42:59: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-03-29 10:26:13: test: Add unit tests for XAI explanation generation
+
+# Change on 2024-04-01 14:25:34: docs: Update usage instructions for running the XAI dashboard
