@@ -219,3 +219,5 @@ class LimeExplainer:
 # Change on 2024-03-29 10:26:13: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-04-01 14:25:34: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-04-05 13:50:17: refactor: Modularize XAI method implementations
