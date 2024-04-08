@@ -206,3 +206,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-03-28 12:13:55: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-04-04 14:05:03: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2024-04-08 09:15:32: security: Implement user authentication for dashboard access
