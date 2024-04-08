@@ -221,3 +221,5 @@ class LimeExplainer:
 # Change on 2024-04-01 14:25:34: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-04-05 13:50:17: refactor: Modularize XAI method implementations
+
+# Change on 2024-04-08 17:32:16: perf: Optimize visualization rendering for large datasets
