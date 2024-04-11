@@ -153,3 +153,5 @@ class ShapExplainer:
 # Change on 2024-04-05 17:39:29: fix: Resolve issues with interactive graph updates
 
 # Change on 2024-04-10 15:28:31: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-04-11 14:48:05: docs: Create detailed API documentation for XAI components
