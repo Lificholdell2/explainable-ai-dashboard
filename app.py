@@ -282,3 +282,5 @@ if __name__ == '__main__':
 # Change on 2024-04-02 14:24:04: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-04-08 13:26:11: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-04-12 14:51:16: style: Apply consistent styling to dashboard components
