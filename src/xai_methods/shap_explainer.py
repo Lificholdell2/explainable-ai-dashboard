@@ -155,3 +155,5 @@ class ShapExplainer:
 # Change on 2024-04-10 15:28:31: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-04-11 14:48:05: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-04-17 14:37:49: chore: Clean up unused visualization assets
