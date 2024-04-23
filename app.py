@@ -288,3 +288,5 @@ if __name__ == '__main__':
 # Change on 2024-04-12 17:18:17: style: Apply consistent styling to dashboard components
 
 # Change on 2024-04-22 13:32:45: security: Implement user authentication for dashboard access
+
+# Change on 2024-04-23 14:05:26: feat: Integrate LIME and SHAP explainers into the dashboard
