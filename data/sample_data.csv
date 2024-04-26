@@ -214,3 +214,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-04-11 09:36:09: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2024-04-24 15:08:14: test: Add unit tests for XAI explanation generation
+
+# Change on 2024-04-26 11:31:36: feat: Add support for new XAI methods (e.g., Grad-CAM)
