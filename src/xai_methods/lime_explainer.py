@@ -223,3 +223,5 @@ class LimeExplainer:
 # Change on 2024-04-05 13:50:17: refactor: Modularize XAI method implementations
 
 # Change on 2024-04-08 17:32:16: perf: Optimize visualization rendering for large datasets
+
+# Change on 2024-05-03 14:31:15: test: Add unit tests for XAI explanation generation
