@@ -294,3 +294,5 @@ if __name__ == '__main__':
 # Change on 2024-04-24 09:50:24: chore: Clean up unused visualization assets
 
 # Change on 2024-04-30 15:18:40: perf: Optimize visualization rendering for large datasets
+
+# Change on 2024-05-06 12:35:18: docs: Update usage instructions for running the XAI dashboard
