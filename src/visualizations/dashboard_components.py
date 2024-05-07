@@ -213,3 +213,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-04-15 13:50:04: style: Apply consistent styling to dashboard components
 
 # Change on 2024-04-18 13:47:03: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2024-05-07 13:50:12: feat: Add support for new XAI methods (e.g., Grad-CAM)
