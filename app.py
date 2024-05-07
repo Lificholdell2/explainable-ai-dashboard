@@ -296,3 +296,5 @@ if __name__ == '__main__':
 # Change on 2024-04-30 15:18:40: perf: Optimize visualization rendering for large datasets
 
 # Change on 2024-05-06 12:35:18: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-05-07 16:06:57: build: Set up Dockerfile for dashboard deployment
