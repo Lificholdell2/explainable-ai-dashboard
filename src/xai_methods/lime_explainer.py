@@ -225,3 +225,5 @@ class LimeExplainer:
 # Change on 2024-04-08 17:32:16: perf: Optimize visualization rendering for large datasets
 
 # Change on 2024-05-03 14:31:15: test: Add unit tests for XAI explanation generation
+
+# Change on 2024-05-10 14:33:06: chore: Clean up unused visualization assets
