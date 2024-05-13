@@ -220,3 +220,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-04-29 17:14:24: chore: Clean up unused visualization assets
 
 # Change on 2024-04-29 15:07:16: test: Add unit tests for XAI explanation generation
+
+# Change on 2024-05-13 16:07:25: feat: Add support for new XAI methods (e.g., Grad-CAM)
