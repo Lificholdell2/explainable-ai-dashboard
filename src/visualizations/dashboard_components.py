@@ -219,3 +219,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-05-10 15:50:09: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-05-13 09:48:25: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-05-14 12:09:18: docs: Create detailed API documentation for XAI components
