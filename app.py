@@ -302,3 +302,5 @@ if __name__ == '__main__':
 # Change on 2024-05-07 12:21:40: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2024-05-08 12:44:52: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-05-14 15:02:14: refactor: Improve dashboard layout and responsiveness
