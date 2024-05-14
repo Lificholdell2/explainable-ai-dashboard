@@ -165,3 +165,5 @@ class ShapExplainer:
 # Change on 2024-05-03 10:25:12: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2024-05-06 17:13:06: security: Implement user authentication for dashboard access
+
+# Change on 2024-05-14 13:47:05: security: Implement user authentication for dashboard access
