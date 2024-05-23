@@ -225,3 +225,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-05-21 11:49:25: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2024-05-22 11:49:38: perf: Optimize visualization rendering for large datasets
+
+# Change on 2024-05-23 16:26:56: docs: Update usage instructions for running the XAI dashboard
