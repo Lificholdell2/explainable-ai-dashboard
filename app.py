@@ -306,3 +306,5 @@ if __name__ == '__main__':
 # Change on 2024-05-14 15:02:14: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-05-15 12:09:44: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2024-05-23 09:41:02: docs: Update usage instructions for running the XAI dashboard
