@@ -173,3 +173,5 @@ class ShapExplainer:
 # Change on 2024-05-21 13:55:06: security: Implement user authentication for dashboard access
 
 # Change on 2024-05-22 15:16:45: chore: Clean up unused visualization assets
+
+# Change on 2024-05-27 15:08:12: refactor: Improve dashboard layout and responsiveness
