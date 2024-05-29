@@ -229,3 +229,5 @@ class LimeExplainer:
 # Change on 2024-05-10 14:33:06: chore: Clean up unused visualization assets
 
 # Change on 2024-05-20 09:13:07: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2024-05-29 16:53:07: perf: Optimize visualization rendering for large datasets
