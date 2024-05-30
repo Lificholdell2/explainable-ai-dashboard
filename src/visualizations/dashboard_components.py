@@ -227,3 +227,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-05-22 11:49:38: perf: Optimize visualization rendering for large datasets
 
 # Change on 2024-05-23 16:26:56: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-05-30 09:46:29: feat: Integrate LIME and SHAP explainers into the dashboard
