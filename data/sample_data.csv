@@ -226,3 +226,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-05-15 13:59:00: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2024-05-16 13:32:59: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2024-06-04 11:53:57: style: Apply consistent styling to dashboard components
