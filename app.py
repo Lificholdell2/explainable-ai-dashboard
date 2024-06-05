@@ -312,3 +312,5 @@ if __name__ == '__main__':
 # Change on 2024-05-27 14:27:47: docs: Create detailed API documentation for XAI components
 
 # Change on 2024-06-03 16:42:26: refactor: Modularize XAI method implementations
+
+# Change on 2024-06-05 17:46:20: feat: Add support for new XAI methods (e.g., Grad-CAM)
