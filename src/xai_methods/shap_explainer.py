@@ -175,3 +175,5 @@ class ShapExplainer:
 # Change on 2024-05-22 15:16:45: chore: Clean up unused visualization assets
 
 # Change on 2024-05-27 15:08:12: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-06-05 15:57:38: fix: Resolve issues with interactive graph updates
