@@ -233,3 +233,5 @@ class LimeExplainer:
 # Change on 2024-05-29 16:53:07: perf: Optimize visualization rendering for large datasets
 
 # Change on 2024-06-05 17:29:20: style: Apply consistent styling to dashboard components
+
+# Change on 2024-06-07 17:13:33: test: Add unit tests for XAI explanation generation
