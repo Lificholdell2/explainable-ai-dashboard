@@ -237,3 +237,5 @@ class LimeExplainer:
 # Change on 2024-06-07 17:13:33: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-06-11 10:20:58: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-06-17 10:53:00: chore: Clean up unused visualization assets
