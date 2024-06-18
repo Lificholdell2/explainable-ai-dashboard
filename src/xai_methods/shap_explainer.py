@@ -179,3 +179,5 @@ class ShapExplainer:
 # Change on 2024-06-05 15:57:38: fix: Resolve issues with interactive graph updates
 
 # Change on 2024-06-07 12:23:53: security: Implement user authentication for dashboard access
+
+# Change on 2024-06-18 13:29:43: chore: Upgrade Dash and Plotly dependencies
