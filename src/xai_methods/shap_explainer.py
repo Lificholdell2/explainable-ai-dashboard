@@ -181,3 +181,5 @@ class ShapExplainer:
 # Change on 2024-06-07 12:23:53: security: Implement user authentication for dashboard access
 
 # Change on 2024-06-18 13:29:43: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2024-06-20 11:11:54: docs: Update usage instructions for running the XAI dashboard
