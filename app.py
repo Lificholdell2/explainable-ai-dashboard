@@ -316,3 +316,5 @@ if __name__ == '__main__':
 # Change on 2024-06-05 17:46:20: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2024-06-18 17:13:30: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-06-26 14:45:07: chore: Upgrade Dash and Plotly dependencies
