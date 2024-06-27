@@ -243,3 +243,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-06-26 16:51:16: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-06-26 11:52:00: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-06-27 13:07:37: docs: Create detailed API documentation for XAI components
