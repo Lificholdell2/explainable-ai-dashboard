@@ -243,3 +243,5 @@ class LimeExplainer:
 # Change on 2024-06-18 11:29:06: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2024-07-01 16:11:04: security: Implement user authentication for dashboard access
+
+# Change on 2024-07-02 13:31:45: build: Set up Dockerfile for dashboard deployment
