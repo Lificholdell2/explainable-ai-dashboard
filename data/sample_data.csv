@@ -234,3 +234,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-06-20 10:03:13: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-06-27 11:52:31: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-07-04 15:51:35: perf: Optimize visualization rendering for large datasets
