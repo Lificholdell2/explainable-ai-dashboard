@@ -322,3 +322,5 @@ if __name__ == '__main__':
 # Change on 2024-06-27 13:38:51: docs: Create detailed API documentation for XAI components
 
 # Change on 2024-07-04 11:21:20: test: Add unit tests for XAI explanation generation
+
+# Change on 2024-07-10 09:15:23: feat: Integrate LIME and SHAP explainers into the dashboard
