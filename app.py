@@ -324,3 +324,5 @@ if __name__ == '__main__':
 # Change on 2024-07-04 11:21:20: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-07-10 09:15:23: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2024-07-19 14:51:19: refactor: Modularize XAI method implementations
