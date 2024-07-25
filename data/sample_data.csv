@@ -246,3 +246,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-07-24 10:15:56: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-07-25 13:34:17: fix: Resolve issues with interactive graph updates
+
+# Change on 2024-07-25 14:14:58: refactor: Modularize XAI method implementations
