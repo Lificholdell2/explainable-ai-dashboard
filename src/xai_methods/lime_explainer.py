@@ -247,3 +247,5 @@ class LimeExplainer:
 # Change on 2024-07-02 13:31:45: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2024-07-24 10:33:53: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2024-07-25 14:53:31: docs: Create detailed API documentation for XAI components
