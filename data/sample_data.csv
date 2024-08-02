@@ -250,3 +250,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-07-25 14:14:58: refactor: Modularize XAI method implementations
 
 # Change on 2024-07-29 09:37:45: security: Implement user authentication for dashboard access
+
+# Change on 2024-08-02 16:22:31: refactor: Modularize XAI method implementations
