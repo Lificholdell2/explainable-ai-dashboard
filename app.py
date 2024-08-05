@@ -332,3 +332,5 @@ if __name__ == '__main__':
 # Change on 2024-08-01 11:39:10: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-08-02 11:31:57: style: Apply consistent styling to dashboard components
+
+# Change on 2024-08-05 17:44:20: refactor: Modularize XAI method implementations
