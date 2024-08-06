@@ -334,3 +334,5 @@ if __name__ == '__main__':
 # Change on 2024-08-02 11:31:57: style: Apply consistent styling to dashboard components
 
 # Change on 2024-08-05 17:44:20: refactor: Modularize XAI method implementations
+
+# Change on 2024-08-06 15:56:39: style: Apply consistent styling to dashboard components
