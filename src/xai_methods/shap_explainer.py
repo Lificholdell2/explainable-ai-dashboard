@@ -191,3 +191,5 @@ class ShapExplainer:
 # Change on 2024-07-22 13:21:06: style: Apply consistent styling to dashboard components
 
 # Change on 2024-07-31 09:35:56: perf: Optimize visualization rendering for large datasets
+
+# Change on 2024-08-08 13:16:31: docs: Create detailed API documentation for XAI components
