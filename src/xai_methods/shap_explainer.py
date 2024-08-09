@@ -193,3 +193,5 @@ class ShapExplainer:
 # Change on 2024-07-31 09:35:56: perf: Optimize visualization rendering for large datasets
 
 # Change on 2024-08-08 13:16:31: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-08-09 15:03:36: feat: Integrate LIME and SHAP explainers into the dashboard
