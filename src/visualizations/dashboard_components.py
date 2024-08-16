@@ -273,3 +273,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-08-08 14:50:54: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-08-16 11:13:21: fix: Resolve issues with interactive graph updates
+
+# Change on 2024-08-16 13:38:50: test: Add unit tests for XAI explanation generation
