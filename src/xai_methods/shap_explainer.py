@@ -199,3 +199,5 @@ class ShapExplainer:
 # Change on 2024-08-13 16:05:23: security: Implement user authentication for dashboard access
 
 # Change on 2024-08-21 12:51:59: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-08-23 09:56:31: build: Set up Dockerfile for dashboard deployment
