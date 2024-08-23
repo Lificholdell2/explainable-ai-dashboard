@@ -262,3 +262,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-08-21 09:29:50: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-08-22 14:21:07: refactor: Modularize XAI method implementations
+
+# Change on 2024-08-23 15:31:42: build: Set up Dockerfile for dashboard deployment
