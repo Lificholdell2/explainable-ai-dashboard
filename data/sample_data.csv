@@ -264,3 +264,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-08-22 14:21:07: refactor: Modularize XAI method implementations
 
 # Change on 2024-08-23 15:31:42: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-08-28 13:07:32: docs: Update usage instructions for running the XAI dashboard
