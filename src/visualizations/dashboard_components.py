@@ -281,3 +281,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-08-23 13:22:55: style: Apply consistent styling to dashboard components
 
 # Change on 2024-08-30 13:16:07: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-09-02 17:55:07: chore: Upgrade Dash and Plotly dependencies
