@@ -283,3 +283,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-08-30 13:16:07: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-09-02 17:55:07: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2024-09-04 16:06:42: build: Set up Dockerfile for dashboard deployment
