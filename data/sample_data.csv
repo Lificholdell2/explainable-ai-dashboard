@@ -274,3 +274,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-09-02 17:46:40: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2024-09-04 15:53:09: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2024-09-04 11:07:24: feat: Integrate LIME and SHAP explainers into the dashboard
