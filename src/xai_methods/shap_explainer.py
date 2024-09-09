@@ -205,3 +205,5 @@ class ShapExplainer:
 # Change on 2024-08-28 12:25:38: style: Apply consistent styling to dashboard components
 
 # Change on 2024-09-06 16:14:55: refactor: Modularize XAI method implementations
+
+# Change on 2024-09-09 13:16:30: docs: Create detailed API documentation for XAI components
