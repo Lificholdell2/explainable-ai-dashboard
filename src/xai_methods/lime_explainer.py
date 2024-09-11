@@ -255,3 +255,5 @@ class LimeExplainer:
 # Change on 2024-08-14 13:15:15: fix: Resolve issues with interactive graph updates
 
 # Change on 2024-08-14 12:04:46: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2024-09-11 17:07:23: security: Implement user authentication for dashboard access
