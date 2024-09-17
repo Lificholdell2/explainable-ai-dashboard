@@ -278,3 +278,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-09-04 11:07:24: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2024-09-11 12:03:23: security: Implement user authentication for dashboard access
+
+# Change on 2024-09-17 10:00:30: fix: Correct data loading and preprocessing for XAI models
