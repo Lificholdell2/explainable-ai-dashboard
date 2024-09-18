@@ -282,3 +282,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-09-17 10:00:30: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-09-17 10:20:46: style: Apply consistent styling to dashboard components
+
+# Change on 2024-09-18 14:37:01: docs: Update usage instructions for running the XAI dashboard
