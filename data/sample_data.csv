@@ -286,3 +286,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-09-18 14:37:01: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-09-20 15:39:31: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-09-24 09:06:44: docs: Create detailed API documentation for XAI components
