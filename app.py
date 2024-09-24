@@ -338,3 +338,5 @@ if __name__ == '__main__':
 # Change on 2024-08-06 15:56:39: style: Apply consistent styling to dashboard components
 
 # Change on 2024-08-09 17:54:53: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-09-24 11:44:38: fix: Resolve issues with interactive graph updates
