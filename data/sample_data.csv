@@ -290,3 +290,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-09-24 09:06:44: docs: Create detailed API documentation for XAI components
 
 # Change on 2024-09-27 13:56:39: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2024-09-27 11:49:38: build: Set up Dockerfile for dashboard deployment
