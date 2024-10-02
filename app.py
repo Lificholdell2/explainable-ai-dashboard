@@ -344,3 +344,5 @@ if __name__ == '__main__':
 # Change on 2024-09-26 17:32:21: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-09-27 17:09:09: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-10-02 15:17:01: perf: Optimize visualization rendering for large datasets
