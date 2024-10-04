@@ -219,3 +219,5 @@ class ShapExplainer:
 # Change on 2024-09-26 11:20:52: perf: Optimize visualization rendering for large datasets
 
 # Change on 2024-10-02 11:34:58: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2024-10-04 13:30:30: chore: Upgrade Dash and Plotly dependencies
