@@ -346,3 +346,5 @@ if __name__ == '__main__':
 # Change on 2024-09-27 17:09:09: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2024-10-02 15:17:01: perf: Optimize visualization rendering for large datasets
+
+# Change on 2024-10-04 13:01:14: chore: Clean up unused visualization assets
