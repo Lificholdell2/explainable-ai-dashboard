@@ -296,3 +296,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-10-02 17:31:24: security: Implement user authentication for dashboard access
 
 # Change on 2024-10-03 14:03:01: fix: Resolve issues with interactive graph updates
+
+# Change on 2024-10-11 10:00:02: fix: Correct data loading and preprocessing for XAI models
