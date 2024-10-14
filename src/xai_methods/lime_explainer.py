@@ -265,3 +265,5 @@ class LimeExplainer:
 # Change on 2024-09-25 12:08:30: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2024-10-03 11:27:02: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2024-10-14 09:13:02: test: Add unit tests for XAI explanation generation
