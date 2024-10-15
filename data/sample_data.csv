@@ -300,3 +300,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-10-11 10:00:02: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-10-11 15:08:04: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-10-15 10:15:51: fix: Correct data loading and preprocessing for XAI models
