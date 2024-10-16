@@ -225,3 +225,5 @@ class ShapExplainer:
 # Change on 2024-10-08 11:53:21: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-10-09 15:40:32: refactor: Modularize XAI method implementations
+
+# Change on 2024-10-16 10:19:31: feat: Integrate LIME and SHAP explainers into the dashboard
