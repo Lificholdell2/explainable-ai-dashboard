@@ -304,3 +304,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-10-15 10:15:51: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-10-24 16:07:38: fix: Resolve issues with interactive graph updates
+
+# Change on 2024-10-24 15:47:00: feat: Integrate LIME and SHAP explainers into the dashboard
