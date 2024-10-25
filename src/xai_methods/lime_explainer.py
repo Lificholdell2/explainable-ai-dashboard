@@ -275,3 +275,5 @@ class LimeExplainer:
 # Change on 2024-10-22 13:52:51: docs: Create detailed API documentation for XAI components
 
 # Change on 2024-10-23 17:51:09: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-10-25 15:59:29: refactor: Improve dashboard layout and responsiveness
