@@ -362,3 +362,5 @@ if __name__ == '__main__':
 # Change on 2024-10-22 13:11:32: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-10-31 13:56:56: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2024-11-04 10:38:34: style: Apply consistent styling to dashboard components
