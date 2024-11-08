@@ -314,3 +314,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-11-07 15:18:01: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-11-07 12:27:47: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2024-11-08 14:44:56: build: Set up Dockerfile for dashboard deployment
