@@ -281,3 +281,5 @@ class LimeExplainer:
 # Change on 2024-11-01 15:42:29: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-11-05 15:09:51: security: Implement user authentication for dashboard access
+
+# Change on 2024-11-13 17:43:07: refactor: Improve dashboard layout and responsiveness
