@@ -374,3 +374,5 @@ if __name__ == '__main__':
 # Change on 2024-11-12 14:22:09: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-11-13 09:35:00: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2024-11-15 17:42:56: refactor: Modularize XAI method implementations
