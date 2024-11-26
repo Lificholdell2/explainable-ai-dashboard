@@ -320,3 +320,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-11-08 16:53:19: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2024-11-18 15:21:52: chore: Clean up unused visualization assets
+
+# Change on 2024-11-26 16:52:37: feat: Integrate LIME and SHAP explainers into the dashboard
