@@ -243,3 +243,5 @@ class ShapExplainer:
 # Change on 2024-11-27 14:23:34: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2024-11-28 09:28:57: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2024-11-29 14:58:19: style: Apply consistent styling to dashboard components
