@@ -285,3 +285,5 @@ class LimeExplainer:
 # Change on 2024-11-13 17:43:07: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-11-29 10:53:51: refactor: Modularize XAI method implementations
+
+# Change on 2024-12-02 14:51:19: chore: Upgrade Dash and Plotly dependencies
