@@ -245,3 +245,5 @@ class ShapExplainer:
 # Change on 2024-11-28 09:28:57: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2024-11-29 14:58:19: style: Apply consistent styling to dashboard components
+
+# Change on 2024-12-02 13:19:35: docs: Create detailed API documentation for XAI components
