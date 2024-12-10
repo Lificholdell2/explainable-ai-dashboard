@@ -324,3 +324,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-11-26 16:52:37: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2024-11-29 10:21:04: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2024-12-10 17:17:04: feat: Integrate LIME and SHAP explainers into the dashboard
