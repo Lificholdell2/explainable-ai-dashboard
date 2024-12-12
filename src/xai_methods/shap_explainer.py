@@ -251,3 +251,5 @@ class ShapExplainer:
 # Change on 2024-12-10 09:30:54: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-12-11 09:17:20: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2024-12-12 15:00:43: chore: Clean up unused visualization assets
