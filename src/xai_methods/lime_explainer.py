@@ -289,3 +289,5 @@ class LimeExplainer:
 # Change on 2024-12-02 14:51:19: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2024-12-13 16:35:16: style: Apply consistent styling to dashboard components
+
+# Change on 2024-12-16 15:19:24: refactor: Improve dashboard layout and responsiveness
