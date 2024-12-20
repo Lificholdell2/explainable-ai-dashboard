@@ -388,3 +388,5 @@ if __name__ == '__main__':
 # Change on 2024-12-02 15:17:01: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-12-13 12:56:55: docs: Create detailed API documentation for XAI components
+
+# Change on 2024-12-20 13:24:13: chore: Upgrade Dash and Plotly dependencies
