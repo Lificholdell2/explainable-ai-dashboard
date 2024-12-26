@@ -390,3 +390,5 @@ if __name__ == '__main__':
 # Change on 2024-12-13 12:56:55: docs: Create detailed API documentation for XAI components
 
 # Change on 2024-12-20 13:24:13: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2024-12-26 17:34:54: style: Apply consistent styling to dashboard components
