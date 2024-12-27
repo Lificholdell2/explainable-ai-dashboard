@@ -340,3 +340,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-12-27 13:45:48: test: Add unit tests for XAI explanation generation
 
 # Change on 2024-12-27 13:42:56: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2024-12-27 15:57:23: feat: Integrate LIME and SHAP explainers into the dashboard
