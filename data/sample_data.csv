@@ -342,3 +342,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2024-12-27 13:42:56: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2024-12-27 15:57:23: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-01-01 17:22:53: style: Apply consistent styling to dashboard components
