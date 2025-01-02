@@ -323,3 +323,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2024-12-24 16:16:57: test: Add unit tests for XAI explanation generation
 
 # Change on 2025-01-02 12:23:35: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2025-01-02 16:54:22: feat: Add support for new XAI methods (e.g., Grad-CAM)
