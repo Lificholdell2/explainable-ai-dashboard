@@ -295,3 +295,5 @@ class LimeExplainer:
 # Change on 2024-12-20 13:48:37: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-01-06 17:30:57: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2025-01-06 15:05:26: fix: Resolve issues with interactive graph updates
