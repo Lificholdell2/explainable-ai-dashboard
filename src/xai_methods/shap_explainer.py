@@ -261,3 +261,5 @@ class ShapExplainer:
 # Change on 2025-01-06 09:24:38: chore: Clean up unused visualization assets
 
 # Change on 2025-01-08 12:54:25: test: Add unit tests for XAI explanation generation
+
+# Change on 2025-01-08 10:14:45: chore: Clean up unused visualization assets
