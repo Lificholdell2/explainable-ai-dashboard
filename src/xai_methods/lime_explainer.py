@@ -297,3 +297,5 @@ class LimeExplainer:
 # Change on 2025-01-06 17:30:57: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2025-01-06 15:05:26: fix: Resolve issues with interactive graph updates
+
+# Change on 2025-01-14 09:25:53: refactor: Modularize XAI method implementations
