@@ -394,3 +394,5 @@ if __name__ == '__main__':
 # Change on 2024-12-26 17:34:54: style: Apply consistent styling to dashboard components
 
 # Change on 2025-01-15 09:05:24: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2025-01-16 15:51:23: fix: Correct data loading and preprocessing for XAI models
