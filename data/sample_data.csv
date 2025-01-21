@@ -350,3 +350,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-01-13 14:12:42: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2025-01-20 09:42:46: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-01-21 09:36:56: test: Add unit tests for XAI explanation generation
