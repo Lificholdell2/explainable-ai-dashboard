@@ -400,3 +400,5 @@ if __name__ == '__main__':
 # Change on 2025-01-17 16:29:14: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-01-21 17:32:07: perf: Optimize visualization rendering for large datasets
+
+# Change on 2025-01-24 09:16:53: perf: Optimize visualization rendering for large datasets
