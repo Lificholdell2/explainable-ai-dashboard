@@ -303,3 +303,5 @@ class LimeExplainer:
 # Change on 2025-01-17 16:29:44: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2025-01-20 11:48:09: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-01-24 09:03:35: perf: Optimize visualization rendering for large datasets
