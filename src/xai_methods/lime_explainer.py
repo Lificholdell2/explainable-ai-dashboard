@@ -305,3 +305,5 @@ class LimeExplainer:
 # Change on 2025-01-20 11:48:09: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-01-24 09:03:35: perf: Optimize visualization rendering for large datasets
+
+# Change on 2025-01-27 09:09:54: build: Set up Dockerfile for dashboard deployment
