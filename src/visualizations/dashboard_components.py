@@ -327,3 +327,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-01-02 16:54:22: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2025-01-14 10:56:12: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2025-01-31 12:02:48: refactor: Improve dashboard layout and responsiveness
