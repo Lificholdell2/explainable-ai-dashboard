@@ -271,3 +271,5 @@ class ShapExplainer:
 # Change on 2025-01-17 16:12:45: docs: Create detailed API documentation for XAI components
 
 # Change on 2025-02-05 13:20:41: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2025-02-10 17:36:06: refactor: Modularize XAI method implementations
