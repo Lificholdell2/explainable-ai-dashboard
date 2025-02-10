@@ -408,3 +408,5 @@ if __name__ == '__main__':
 # Change on 2025-01-29 14:58:42: refactor: Modularize XAI method implementations
 
 # Change on 2025-02-05 09:04:14: refactor: Modularize XAI method implementations
+
+# Change on 2025-02-10 09:34:58: feat: Integrate LIME and SHAP explainers into the dashboard
