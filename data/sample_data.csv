@@ -358,3 +358,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-01-29 15:09:32: fix: Resolve issues with interactive graph updates
 
 # Change on 2025-02-05 12:22:25: refactor: Modularize XAI method implementations
+
+# Change on 2025-02-19 10:15:06: docs: Update usage instructions for running the XAI dashboard
