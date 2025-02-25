@@ -309,3 +309,5 @@ class LimeExplainer:
 # Change on 2025-01-27 09:09:54: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2025-02-20 11:18:32: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2025-02-25 09:43:58: chore: Clean up unused visualization assets
