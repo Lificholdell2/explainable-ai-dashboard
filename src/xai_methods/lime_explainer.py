@@ -315,3 +315,5 @@ class LimeExplainer:
 # Change on 2025-02-26 14:35:42: style: Apply consistent styling to dashboard components
 
 # Change on 2025-03-04 15:23:27: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-03-04 11:51:30: chore: Clean up unused visualization assets
