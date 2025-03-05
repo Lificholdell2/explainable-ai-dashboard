@@ -418,3 +418,5 @@ if __name__ == '__main__':
 # Change on 2025-02-21 16:48:46: security: Implement user authentication for dashboard access
 
 # Change on 2025-02-21 16:21:18: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2025-03-05 12:29:31: fix: Correct data loading and preprocessing for XAI models
