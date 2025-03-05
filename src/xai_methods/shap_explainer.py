@@ -277,3 +277,5 @@ class ShapExplainer:
 # Change on 2025-02-27 11:59:32: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2025-02-28 17:42:43: docs: Create detailed API documentation for XAI components
+
+# Change on 2025-03-05 17:07:35: chore: Upgrade Dash and Plotly dependencies
