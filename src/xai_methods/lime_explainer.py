@@ -319,3 +319,5 @@ class LimeExplainer:
 # Change on 2025-03-04 11:51:30: chore: Clean up unused visualization assets
 
 # Change on 2025-03-05 10:36:48: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2025-03-07 15:47:32: feat: Integrate LIME and SHAP explainers into the dashboard
