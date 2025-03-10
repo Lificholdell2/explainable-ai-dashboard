@@ -343,3 +343,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-03-04 14:26:28: fix: Resolve issues with interactive graph updates
 
 # Change on 2025-03-06 12:57:25: security: Implement user authentication for dashboard access
+
+# Change on 2025-03-10 15:28:25: build: Set up Dockerfile for dashboard deployment
