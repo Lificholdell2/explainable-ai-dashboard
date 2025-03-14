@@ -321,3 +321,5 @@ class LimeExplainer:
 # Change on 2025-03-05 10:36:48: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2025-03-07 15:47:32: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-03-14 11:37:41: security: Implement user authentication for dashboard access
