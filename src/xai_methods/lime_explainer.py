@@ -323,3 +323,5 @@ class LimeExplainer:
 # Change on 2025-03-07 15:47:32: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-03-14 11:37:41: security: Implement user authentication for dashboard access
+
+# Change on 2025-03-17 12:14:20: chore: Clean up unused visualization assets
