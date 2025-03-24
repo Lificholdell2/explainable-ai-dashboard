@@ -325,3 +325,5 @@ class LimeExplainer:
 # Change on 2025-03-14 11:37:41: security: Implement user authentication for dashboard access
 
 # Change on 2025-03-17 12:14:20: chore: Clean up unused visualization assets
+
+# Change on 2025-03-24 10:48:44: refactor: Modularize XAI method implementations
