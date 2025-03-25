@@ -283,3 +283,5 @@ class ShapExplainer:
 # Change on 2025-03-10 14:23:29: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2025-03-21 15:54:31: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2025-03-25 17:07:31: style: Apply consistent styling to dashboard components
