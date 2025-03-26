@@ -368,3 +368,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-03-17 09:56:36: chore: Clean up unused visualization assets
 
 # Change on 2025-03-17 09:30:43: style: Apply consistent styling to dashboard components
+
+# Change on 2025-03-26 16:04:51: docs: Update usage instructions for running the XAI dashboard
