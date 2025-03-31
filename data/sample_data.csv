@@ -370,3 +370,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-03-17 09:30:43: style: Apply consistent styling to dashboard components
 
 # Change on 2025-03-26 16:04:51: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2025-03-31 14:07:07: docs: Update usage instructions for running the XAI dashboard
