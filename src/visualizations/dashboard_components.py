@@ -357,3 +357,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-03-31 14:09:23: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2025-04-01 14:06:47: docs: Create detailed API documentation for XAI components
+
+# Change on 2025-04-01 12:40:45: docs: Create detailed API documentation for XAI components
