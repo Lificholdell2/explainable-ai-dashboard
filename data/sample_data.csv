@@ -374,3 +374,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-03-31 14:07:07: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2025-04-02 15:25:28: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2025-04-02 09:43:32: security: Implement user authentication for dashboard access
