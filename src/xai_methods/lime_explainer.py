@@ -335,3 +335,5 @@ class LimeExplainer:
 # Change on 2025-04-01 11:44:51: docs: Create detailed API documentation for XAI components
 
 # Change on 2025-04-04 11:58:18: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2025-04-08 11:21:08: docs: Update usage instructions for running the XAI dashboard
