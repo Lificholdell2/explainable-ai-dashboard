@@ -287,3 +287,5 @@ class ShapExplainer:
 # Change on 2025-03-25 17:07:31: style: Apply consistent styling to dashboard components
 
 # Change on 2025-04-04 15:17:01: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-04-08 13:41:49: build: Set up Dockerfile for dashboard deployment
