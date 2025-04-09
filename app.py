@@ -432,3 +432,5 @@ if __name__ == '__main__':
 # Change on 2025-04-03 15:01:34: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-04-04 17:46:53: fix: Resolve issues with interactive graph updates
+
+# Change on 2025-04-09 17:28:34: fix: Correct data loading and preprocessing for XAI models
