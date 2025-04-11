@@ -289,3 +289,5 @@ class ShapExplainer:
 # Change on 2025-04-04 15:17:01: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-04-08 13:41:49: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2025-04-11 10:19:17: refactor: Modularize XAI method implementations
