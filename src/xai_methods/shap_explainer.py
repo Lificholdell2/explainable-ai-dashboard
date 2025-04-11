@@ -291,3 +291,5 @@ class ShapExplainer:
 # Change on 2025-04-08 13:41:49: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2025-04-11 10:19:17: refactor: Modularize XAI method implementations
+
+# Change on 2025-04-11 10:04:34: fix: Correct data loading and preprocessing for XAI models
