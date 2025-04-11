@@ -341,3 +341,5 @@ class LimeExplainer:
 # Change on 2025-04-09 14:31:50: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2025-04-10 09:58:18: security: Implement user authentication for dashboard access
+
+# Change on 2025-04-11 11:35:10: feat: Add support for new XAI methods (e.g., Grad-CAM)
