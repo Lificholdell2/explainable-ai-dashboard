@@ -293,3 +293,5 @@ class ShapExplainer:
 # Change on 2025-04-11 10:19:17: refactor: Modularize XAI method implementations
 
 # Change on 2025-04-11 10:04:34: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2025-04-15 09:38:37: refactor: Improve dashboard layout and responsiveness
