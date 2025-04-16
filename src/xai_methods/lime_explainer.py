@@ -343,3 +343,5 @@ class LimeExplainer:
 # Change on 2025-04-10 09:58:18: security: Implement user authentication for dashboard access
 
 # Change on 2025-04-11 11:35:10: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2025-04-16 17:28:37: build: Set up Dockerfile for dashboard deployment
