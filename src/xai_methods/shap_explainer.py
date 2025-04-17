@@ -297,3 +297,5 @@ class ShapExplainer:
 # Change on 2025-04-15 09:38:37: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2025-04-15 11:10:09: fix: Resolve issues with interactive graph updates
+
+# Change on 2025-04-17 10:24:18: style: Apply consistent styling to dashboard components
