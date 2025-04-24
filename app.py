@@ -440,3 +440,5 @@ if __name__ == '__main__':
 # Change on 2025-04-22 12:25:09: fix: Resolve issues with interactive graph updates
 
 # Change on 2025-04-24 14:32:36: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2025-04-24 15:35:00: style: Apply consistent styling to dashboard components
