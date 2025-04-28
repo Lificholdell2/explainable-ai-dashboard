@@ -444,3 +444,5 @@ if __name__ == '__main__':
 # Change on 2025-04-24 15:35:00: style: Apply consistent styling to dashboard components
 
 # Change on 2025-04-28 17:15:53: fix: Resolve issues with interactive graph updates
+
+# Change on 2025-04-28 17:30:06: refactor: Modularize XAI method implementations
