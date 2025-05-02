@@ -301,3 +301,5 @@ class ShapExplainer:
 # Change on 2025-04-17 10:24:18: style: Apply consistent styling to dashboard components
 
 # Change on 2025-04-22 16:58:57: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2025-05-02 11:44:08: test: Add unit tests for XAI explanation generation
