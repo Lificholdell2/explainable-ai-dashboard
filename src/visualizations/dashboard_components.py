@@ -367,3 +367,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-04-29 11:47:09: perf: Optimize visualization rendering for large datasets
 
 # Change on 2025-05-01 14:33:01: test: Add unit tests for XAI explanation generation
+
+# Change on 2025-05-05 14:54:27: feat: Integrate LIME and SHAP explainers into the dashboard
