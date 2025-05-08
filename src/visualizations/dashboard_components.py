@@ -371,3 +371,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-05-05 14:54:27: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-05-06 09:47:33: security: Implement user authentication for dashboard access
+
+# Change on 2025-05-08 13:25:42: fix: Correct data loading and preprocessing for XAI models
