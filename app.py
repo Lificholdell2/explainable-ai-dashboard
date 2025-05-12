@@ -452,3 +452,5 @@ if __name__ == '__main__':
 # Change on 2025-05-05 14:30:14: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2025-05-09 13:37:44: perf: Optimize visualization rendering for large datasets
+
+# Change on 2025-05-12 13:41:38: feat: Integrate LIME and SHAP explainers into the dashboard
