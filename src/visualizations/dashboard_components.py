@@ -375,3 +375,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-05-08 13:25:42: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2025-05-09 13:57:47: test: Add unit tests for XAI explanation generation
+
+# Change on 2025-05-13 14:22:48: feat: Integrate LIME and SHAP explainers into the dashboard
