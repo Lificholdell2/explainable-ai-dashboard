@@ -456,3 +456,5 @@ if __name__ == '__main__':
 # Change on 2025-05-12 13:41:38: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-05-13 10:52:08: security: Implement user authentication for dashboard access
+
+# Change on 2025-05-15 15:33:00: build: Set up Dockerfile for dashboard deployment
