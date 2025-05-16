@@ -351,3 +351,5 @@ class LimeExplainer:
 # Change on 2025-04-25 09:37:08: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2025-05-12 17:30:30: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2025-05-16 13:10:19: build: Set up Dockerfile for dashboard deployment
