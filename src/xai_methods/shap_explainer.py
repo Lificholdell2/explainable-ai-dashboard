@@ -309,3 +309,5 @@ class ShapExplainer:
 # Change on 2025-05-14 09:27:44: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2025-05-14 14:10:39: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2025-05-16 13:21:56: refactor: Improve dashboard layout and responsiveness
