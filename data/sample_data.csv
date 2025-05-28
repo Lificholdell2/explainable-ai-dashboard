@@ -390,3 +390,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-05-13 15:19:52: docs: Create detailed API documentation for XAI components
 
 # Change on 2025-05-22 10:28:06: test: Add unit tests for XAI explanation generation
+
+# Change on 2025-05-28 16:49:40: refactor: Modularize XAI method implementations
