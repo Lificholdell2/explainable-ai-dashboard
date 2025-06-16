@@ -464,3 +464,5 @@ if __name__ == '__main__':
 # Change on 2025-05-22 11:03:00: chore: Clean up unused visualization assets
 
 # Change on 2025-06-11 09:54:18: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2025-06-16 09:04:24: fix: Resolve issues with interactive graph updates
