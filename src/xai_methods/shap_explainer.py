@@ -327,3 +327,5 @@ class ShapExplainer:
 # Change on 2025-06-18 14:56:42: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2025-06-19 14:51:55: docs: Create detailed API documentation for XAI components
+
+# Change on 2025-06-20 16:10:22: build: Set up Dockerfile for dashboard deployment
