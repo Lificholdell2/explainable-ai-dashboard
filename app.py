@@ -470,3 +470,5 @@ if __name__ == '__main__':
 # Change on 2025-06-17 13:47:49: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2025-06-24 14:23:53: fix: Resolve issues with interactive graph updates
+
+# Change on 2025-06-24 15:30:09: build: Set up Dockerfile for dashboard deployment
