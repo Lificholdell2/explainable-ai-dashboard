@@ -361,3 +361,5 @@ class LimeExplainer:
 # Change on 2025-06-03 17:54:10: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2025-06-11 12:12:36: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2025-06-24 17:09:47: chore: Upgrade Dash and Plotly dependencies
