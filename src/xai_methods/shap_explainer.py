@@ -331,3 +331,5 @@ class ShapExplainer:
 # Change on 2025-06-20 16:10:22: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2025-06-25 16:16:44: perf: Optimize visualization rendering for large datasets
+
+# Change on 2025-06-26 17:27:45: chore: Clean up unused visualization assets
