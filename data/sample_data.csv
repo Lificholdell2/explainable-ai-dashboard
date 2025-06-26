@@ -400,3 +400,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-06-18 15:28:10: fix: Resolve issues with interactive graph updates
 
 # Change on 2025-06-20 16:42:07: perf: Optimize visualization rendering for large datasets
+
+# Change on 2025-06-26 14:37:57: feat: Add support for new XAI methods (e.g., Grad-CAM)
