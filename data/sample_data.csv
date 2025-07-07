@@ -406,3 +406,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-06-30 17:26:40: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2025-07-02 11:04:08: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2025-07-07 16:46:39: docs: Update usage instructions for running the XAI dashboard
