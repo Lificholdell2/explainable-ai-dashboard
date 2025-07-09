@@ -335,3 +335,5 @@ class ShapExplainer:
 # Change on 2025-06-26 17:27:45: chore: Clean up unused visualization assets
 
 # Change on 2025-07-04 17:08:11: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2025-07-09 09:41:09: chore: Upgrade Dash and Plotly dependencies
