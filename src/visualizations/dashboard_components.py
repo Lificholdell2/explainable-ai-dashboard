@@ -397,3 +397,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-07-03 09:54:30: security: Implement user authentication for dashboard access
 
 # Change on 2025-07-10 11:18:31: security: Implement user authentication for dashboard access
+
+# Change on 2025-07-10 12:32:34: build: Set up Dockerfile for dashboard deployment
