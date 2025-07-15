@@ -337,3 +337,5 @@ class ShapExplainer:
 # Change on 2025-07-04 17:08:11: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2025-07-09 09:41:09: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2025-07-15 17:55:33: build: Set up Dockerfile for dashboard deployment
