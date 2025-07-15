@@ -482,3 +482,5 @@ if __name__ == '__main__':
 # Change on 2025-07-07 14:52:51: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2025-07-14 10:32:12: security: Implement user authentication for dashboard access
+
+# Change on 2025-07-15 17:11:26: refactor: Improve dashboard layout and responsiveness
