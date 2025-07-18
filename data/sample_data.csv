@@ -412,3 +412,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-07-07 12:11:22: security: Implement user authentication for dashboard access
 
 # Change on 2025-07-10 13:11:38: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2025-07-18 12:58:54: docs: Update usage instructions for running the XAI dashboard
