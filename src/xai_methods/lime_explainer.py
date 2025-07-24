@@ -371,3 +371,5 @@ class LimeExplainer:
 # Change on 2025-07-08 16:36:04: refactor: Modularize XAI method implementations
 
 # Change on 2025-07-17 15:17:12: fix: Resolve issues with interactive graph updates
+
+# Change on 2025-07-24 13:40:53: chore: Clean up unused visualization assets
