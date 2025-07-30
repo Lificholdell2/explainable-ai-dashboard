@@ -343,3 +343,5 @@ class ShapExplainer:
 # Change on 2025-07-17 13:23:46: fix: Resolve issues with interactive graph updates
 
 # Change on 2025-07-25 15:28:26: perf: Optimize visualization rendering for large datasets
+
+# Change on 2025-07-30 17:53:25: perf: Optimize visualization rendering for large datasets
