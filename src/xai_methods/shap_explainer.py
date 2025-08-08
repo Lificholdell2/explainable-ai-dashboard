@@ -347,3 +347,5 @@ class ShapExplainer:
 # Change on 2025-07-30 17:53:25: perf: Optimize visualization rendering for large datasets
 
 # Change on 2025-07-31 14:54:27: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2025-08-08 17:34:19: security: Implement user authentication for dashboard access
