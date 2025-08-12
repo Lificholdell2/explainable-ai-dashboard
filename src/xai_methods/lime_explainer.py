@@ -381,3 +381,5 @@ class LimeExplainer:
 # Change on 2025-08-07 17:52:32: fix: Resolve issues with interactive graph updates
 
 # Change on 2025-08-08 16:36:11: perf: Optimize visualization rendering for large datasets
+
+# Change on 2025-08-12 16:28:38: docs: Update usage instructions for running the XAI dashboard
