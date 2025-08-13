@@ -416,3 +416,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-07-18 12:58:54: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2025-07-22 16:06:42: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2025-08-13 10:24:41: refactor: Modularize XAI method implementations
