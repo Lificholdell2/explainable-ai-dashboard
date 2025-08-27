@@ -415,3 +415,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-08-15 12:49:34: chore: Upgrade Dash and Plotly dependencies
 
 # Change on 2025-08-22 17:58:41: security: Implement user authentication for dashboard access
+
+# Change on 2025-08-27 15:27:17: chore: Clean up unused visualization assets
