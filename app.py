@@ -492,3 +492,5 @@ if __name__ == '__main__':
 # Change on 2025-08-14 15:11:41: docs: Create detailed API documentation for XAI components
 
 # Change on 2025-08-15 09:57:24: docs: Create detailed API documentation for XAI components
+
+# Change on 2025-08-29 10:19:34: fix: Correct data loading and preprocessing for XAI models
