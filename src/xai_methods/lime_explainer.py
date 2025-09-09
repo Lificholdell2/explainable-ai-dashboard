@@ -387,3 +387,5 @@ class LimeExplainer:
 # Change on 2025-08-13 13:46:04: style: Apply consistent styling to dashboard components
 
 # Change on 2025-08-28 16:31:24: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2025-09-09 13:20:42: feat: Integrate LIME and SHAP explainers into the dashboard
