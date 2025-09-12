@@ -353,3 +353,5 @@ class ShapExplainer:
 # Change on 2025-08-22 11:45:40: test: Add unit tests for XAI explanation generation
 
 # Change on 2025-09-09 10:37:07: test: Add unit tests for XAI explanation generation
+
+# Change on 2025-09-12 17:38:51: chore: Upgrade Dash and Plotly dependencies
