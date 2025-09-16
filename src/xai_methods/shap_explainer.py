@@ -355,3 +355,5 @@ class ShapExplainer:
 # Change on 2025-09-09 10:37:07: test: Add unit tests for XAI explanation generation
 
 # Change on 2025-09-12 17:38:51: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2025-09-16 13:53:32: feat: Integrate LIME and SHAP explainers into the dashboard
