@@ -391,3 +391,5 @@ class LimeExplainer:
 # Change on 2025-09-09 13:20:42: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-09-12 09:01:32: perf: Optimize visualization rendering for large datasets
+
+# Change on 2025-09-26 10:55:22: fix: Correct data loading and preprocessing for XAI models
