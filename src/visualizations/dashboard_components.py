@@ -431,3 +431,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-09-30 09:32:31: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2025-09-30 12:29:26: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-09-30 15:40:52: build: Set up Dockerfile for dashboard deployment
