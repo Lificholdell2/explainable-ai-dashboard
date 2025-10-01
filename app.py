@@ -498,3 +498,5 @@ if __name__ == '__main__':
 # Change on 2025-09-09 15:33:42: security: Implement user authentication for dashboard access
 
 # Change on 2025-10-01 17:39:39: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-10-01 12:22:55: chore: Clean up unused visualization assets
