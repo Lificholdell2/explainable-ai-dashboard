@@ -393,3 +393,5 @@ class LimeExplainer:
 # Change on 2025-09-12 09:01:32: perf: Optimize visualization rendering for large datasets
 
 # Change on 2025-09-26 10:55:22: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2025-10-01 10:42:03: fix: Correct data loading and preprocessing for XAI models
