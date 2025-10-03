@@ -500,3 +500,5 @@ if __name__ == '__main__':
 # Change on 2025-10-01 17:39:39: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-10-01 12:22:55: chore: Clean up unused visualization assets
+
+# Change on 2025-10-03 13:37:20: fix: Resolve issues with interactive graph updates
