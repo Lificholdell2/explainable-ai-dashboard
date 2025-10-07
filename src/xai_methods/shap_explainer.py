@@ -365,3 +365,5 @@ class ShapExplainer:
 # Change on 2025-10-02 17:31:01: docs: Create detailed API documentation for XAI components
 
 # Change on 2025-10-07 11:37:22: style: Apply consistent styling to dashboard components
+
+# Change on 2025-10-07 11:15:43: chore: Upgrade Dash and Plotly dependencies
