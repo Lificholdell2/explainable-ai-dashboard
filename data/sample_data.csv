@@ -430,3 +430,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-09-22 17:58:44: chore: Clean up unused visualization assets
 
 # Change on 2025-09-26 12:24:41: fix: Resolve issues with interactive graph updates
+
+# Change on 2025-10-17 09:10:39: build: Set up Dockerfile for dashboard deployment
