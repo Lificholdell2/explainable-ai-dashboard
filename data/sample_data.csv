@@ -434,3 +434,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-10-17 09:10:39: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2025-10-20 11:45:26: refactor: Modularize XAI method implementations
+
+# Change on 2025-10-20 10:30:28: feat: Add support for new XAI methods (e.g., Grad-CAM)
