@@ -508,3 +508,5 @@ if __name__ == '__main__':
 # Change on 2025-10-13 12:11:40: docs: Create detailed API documentation for XAI components
 
 # Change on 2025-10-17 12:35:10: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2025-10-21 14:18:19: fix: Correct data loading and preprocessing for XAI models
