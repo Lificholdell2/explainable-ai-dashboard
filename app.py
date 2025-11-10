@@ -512,3 +512,5 @@ if __name__ == '__main__':
 # Change on 2025-10-21 14:18:19: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2025-11-04 15:01:17: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2025-11-10 16:16:47: security: Implement user authentication for dashboard access
