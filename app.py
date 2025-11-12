@@ -514,3 +514,5 @@ if __name__ == '__main__':
 # Change on 2025-11-04 15:01:17: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2025-11-10 16:16:47: security: Implement user authentication for dashboard access
+
+# Change on 2025-11-12 16:46:59: chore: Clean up unused visualization assets
