@@ -452,3 +452,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-11-06 09:02:24: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-11-07 14:09:57: test: Add unit tests for XAI explanation generation
+
+# Change on 2025-11-25 09:17:35: fix: Correct data loading and preprocessing for XAI models
