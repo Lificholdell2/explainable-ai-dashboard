@@ -413,3 +413,5 @@ class LimeExplainer:
 # Change on 2025-11-10 13:21:38: style: Apply consistent styling to dashboard components
 
 # Change on 2025-11-27 09:25:46: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2025-11-28 13:08:17: refactor: Improve dashboard layout and responsiveness
