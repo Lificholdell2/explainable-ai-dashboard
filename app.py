@@ -520,3 +520,5 @@ if __name__ == '__main__':
 # Change on 2025-11-18 16:14:13: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2025-11-25 09:01:43: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2025-12-01 17:05:06: chore: Clean up unused visualization assets
