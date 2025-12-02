@@ -456,3 +456,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-11-25 09:17:35: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2025-11-28 16:13:01: refactor: Modularize XAI method implementations
+
+# Change on 2025-12-02 16:41:56: test: Add unit tests for XAI explanation generation
