@@ -417,3 +417,5 @@ class LimeExplainer:
 # Change on 2025-11-28 13:08:17: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2025-11-28 15:33:58: docs: Create detailed API documentation for XAI components
+
+# Change on 2025-12-03 12:52:09: feat: Add support for new XAI methods (e.g., Grad-CAM)
