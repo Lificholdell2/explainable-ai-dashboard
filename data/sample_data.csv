@@ -458,3 +458,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2025-11-28 16:13:01: refactor: Modularize XAI method implementations
 
 # Change on 2025-12-02 16:41:56: test: Add unit tests for XAI explanation generation
+
+# Change on 2025-12-03 16:24:08: feat: Add support for new XAI methods (e.g., Grad-CAM)
