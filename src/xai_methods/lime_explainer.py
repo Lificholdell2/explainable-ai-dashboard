@@ -419,3 +419,5 @@ class LimeExplainer:
 # Change on 2025-11-28 15:33:58: docs: Create detailed API documentation for XAI components
 
 # Change on 2025-12-03 12:52:09: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2025-12-04 15:15:05: docs: Update usage instructions for running the XAI dashboard
