@@ -379,3 +379,5 @@ class ShapExplainer:
 # Change on 2025-11-07 11:19:06: chore: Clean up unused visualization assets
 
 # Change on 2025-12-03 13:40:38: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2025-12-04 13:32:27: fix: Correct data loading and preprocessing for XAI models
