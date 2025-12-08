@@ -457,3 +457,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-11-27 14:03:24: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2025-11-27 13:27:20: security: Implement user authentication for dashboard access
+
+# Change on 2025-12-08 17:55:49: perf: Optimize visualization rendering for large datasets
