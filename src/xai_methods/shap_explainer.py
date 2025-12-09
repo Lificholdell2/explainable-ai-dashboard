@@ -381,3 +381,5 @@ class ShapExplainer:
 # Change on 2025-12-03 13:40:38: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2025-12-04 13:32:27: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2025-12-09 17:55:50: docs: Create detailed API documentation for XAI components
