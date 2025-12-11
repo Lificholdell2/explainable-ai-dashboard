@@ -423,3 +423,5 @@ class LimeExplainer:
 # Change on 2025-12-04 15:15:05: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2025-12-09 14:40:55: security: Implement user authentication for dashboard access
+
+# Change on 2025-12-11 10:59:17: test: Add unit tests for XAI explanation generation
