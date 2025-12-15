@@ -524,3 +524,5 @@ if __name__ == '__main__':
 # Change on 2025-12-01 17:05:06: chore: Clean up unused visualization assets
 
 # Change on 2025-12-05 16:19:02: chore: Clean up unused visualization assets
+
+# Change on 2025-12-15 17:03:23: perf: Optimize visualization rendering for large datasets
