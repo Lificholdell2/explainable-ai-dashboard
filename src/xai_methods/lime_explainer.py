@@ -425,3 +425,5 @@ class LimeExplainer:
 # Change on 2025-12-09 14:40:55: security: Implement user authentication for dashboard access
 
 # Change on 2025-12-11 10:59:17: test: Add unit tests for XAI explanation generation
+
+# Change on 2025-12-15 14:43:01: perf: Optimize visualization rendering for large datasets
