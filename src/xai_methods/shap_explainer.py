@@ -383,3 +383,5 @@ class ShapExplainer:
 # Change on 2025-12-04 13:32:27: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2025-12-09 17:55:50: docs: Create detailed API documentation for XAI components
+
+# Change on 2025-12-24 14:11:41: feat: Integrate LIME and SHAP explainers into the dashboard
