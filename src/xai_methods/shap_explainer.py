@@ -387,3 +387,5 @@ class ShapExplainer:
 # Change on 2025-12-24 14:11:41: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2025-12-31 11:30:47: security: Implement user authentication for dashboard access
+
+# Change on 2026-01-01 10:40:41: fix: Correct data loading and preprocessing for XAI models
