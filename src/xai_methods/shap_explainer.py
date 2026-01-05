@@ -391,3 +391,5 @@ class ShapExplainer:
 # Change on 2026-01-01 10:40:41: fix: Correct data loading and preprocessing for XAI models
 
 # Change on 2026-01-05 13:44:12: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2026-01-05 10:38:23: feat: Integrate LIME and SHAP explainers into the dashboard
