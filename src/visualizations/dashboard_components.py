@@ -461,3 +461,5 @@ def create_individual_explanation_waterfall_chart(explanation_values, title="Ind
 # Change on 2025-12-08 17:55:49: perf: Optimize visualization rendering for large datasets
 
 # Change on 2025-12-30 11:48:37: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2026-01-07 09:12:27: docs: Update usage instructions for running the XAI dashboard
