@@ -536,3 +536,5 @@ if __name__ == '__main__':
 # Change on 2025-12-30 17:45:54: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2026-01-02 11:39:25: security: Implement user authentication for dashboard access
+
+# Change on 2026-01-07 14:49:24: chore: Upgrade Dash and Plotly dependencies
