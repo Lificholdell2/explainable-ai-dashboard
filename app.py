@@ -542,3 +542,5 @@ if __name__ == '__main__':
 # Change on 2026-01-08 15:18:20: chore: Clean up unused visualization assets
 
 # Change on 2026-01-13 17:41:18: chore: Clean up unused visualization assets
+
+# Change on 2026-01-13 12:05:16: test: Add unit tests for XAI explanation generation
