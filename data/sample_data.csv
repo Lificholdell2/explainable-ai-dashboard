@@ -466,3 +466,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2026-01-01 16:47:53: refactor: Improve dashboard layout and responsiveness
 
 # Change on 2026-01-05 13:12:06: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2026-01-15 16:54:11: feat: Integrate LIME and SHAP explainers into the dashboard
