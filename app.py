@@ -544,3 +544,5 @@ if __name__ == '__main__':
 # Change on 2026-01-13 17:41:18: chore: Clean up unused visualization assets
 
 # Change on 2026-01-13 12:05:16: test: Add unit tests for XAI explanation generation
+
+# Change on 2026-01-23 17:11:46: fix: Correct data loading and preprocessing for XAI models
