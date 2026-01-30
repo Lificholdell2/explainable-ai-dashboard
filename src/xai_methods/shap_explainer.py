@@ -397,3 +397,5 @@ class ShapExplainer:
 # Change on 2026-01-26 09:16:33: security: Implement user authentication for dashboard access
 
 # Change on 2026-01-28 16:07:59: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2026-01-30 15:16:29: fix: Correct data loading and preprocessing for XAI models
