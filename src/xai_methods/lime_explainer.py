@@ -441,3 +441,5 @@ class LimeExplainer:
 # Change on 2026-01-08 10:20:21: security: Implement user authentication for dashboard access
 
 # Change on 2026-01-15 14:50:54: style: Apply consistent styling to dashboard components
+
+# Change on 2026-02-02 11:23:45: feat: Add support for new XAI methods (e.g., Grad-CAM)
