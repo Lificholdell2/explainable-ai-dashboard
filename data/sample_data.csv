@@ -478,3 +478,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2026-01-27 15:17:28: perf: Optimize visualization rendering for large datasets
 
 # Change on 2026-01-27 12:56:55: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2026-02-02 12:17:43: build: Set up Dockerfile for dashboard deployment
