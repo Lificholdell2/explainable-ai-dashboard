@@ -546,3 +546,5 @@ if __name__ == '__main__':
 # Change on 2026-01-13 12:05:16: test: Add unit tests for XAI explanation generation
 
 # Change on 2026-01-23 17:11:46: fix: Correct data loading and preprocessing for XAI models
+
+# Change on 2026-02-04 10:20:59: test: Add unit tests for XAI explanation generation
