@@ -443,3 +443,5 @@ class LimeExplainer:
 # Change on 2026-01-15 14:50:54: style: Apply consistent styling to dashboard components
 
 # Change on 2026-02-02 11:23:45: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2026-02-04 11:17:48: docs: Update usage instructions for running the XAI dashboard
