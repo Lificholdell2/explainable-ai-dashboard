@@ -403,3 +403,5 @@ class ShapExplainer:
 # Change on 2026-01-30 12:10:06: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2026-02-02 16:36:58: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2026-02-05 15:59:07: security: Implement user authentication for dashboard access
