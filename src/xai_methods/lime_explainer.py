@@ -447,3 +447,5 @@ class LimeExplainer:
 # Change on 2026-02-04 11:17:48: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2026-02-10 16:31:12: security: Implement user authentication for dashboard access
+
+# Change on 2026-02-10 13:31:56: chore: Upgrade Dash and Plotly dependencies
