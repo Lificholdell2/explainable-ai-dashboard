@@ -449,3 +449,5 @@ class LimeExplainer:
 # Change on 2026-02-10 16:31:12: security: Implement user authentication for dashboard access
 
 # Change on 2026-02-10 13:31:56: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2026-02-10 09:13:34: chore: Clean up unused visualization assets
