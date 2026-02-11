@@ -405,3 +405,5 @@ class ShapExplainer:
 # Change on 2026-02-02 16:36:58: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2026-02-05 15:59:07: security: Implement user authentication for dashboard access
+
+# Change on 2026-02-11 11:49:39: chore: Clean up unused visualization assets
