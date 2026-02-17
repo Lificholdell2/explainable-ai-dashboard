@@ -409,3 +409,5 @@ class ShapExplainer:
 # Change on 2026-02-11 11:49:39: chore: Clean up unused visualization assets
 
 # Change on 2026-02-12 11:08:10: perf: Optimize visualization rendering for large datasets
+
+# Change on 2026-02-17 16:13:46: perf: Optimize visualization rendering for large datasets
