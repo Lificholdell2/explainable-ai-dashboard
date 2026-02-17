@@ -411,3 +411,5 @@ class ShapExplainer:
 # Change on 2026-02-12 11:08:10: perf: Optimize visualization rendering for large datasets
 
 # Change on 2026-02-17 16:13:46: perf: Optimize visualization rendering for large datasets
+
+# Change on 2026-02-17 13:38:16: feat: Add support for new XAI methods (e.g., Grad-CAM)
