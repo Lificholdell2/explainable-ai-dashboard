@@ -558,3 +558,5 @@ if __name__ == '__main__':
 # Change on 2026-02-18 12:19:09: perf: Optimize visualization rendering for large datasets
 
 # Change on 2026-02-18 14:07:13: docs: Create detailed API documentation for XAI components
+
+# Change on 2026-02-24 09:46:11: feat: Add support for new XAI methods (e.g., Grad-CAM)
