@@ -562,3 +562,5 @@ if __name__ == '__main__':
 # Change on 2026-02-24 09:46:11: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2026-02-25 13:47:20: perf: Optimize visualization rendering for large datasets
+
+# Change on 2026-03-02 16:35:06: build: Set up Dockerfile for dashboard deployment
