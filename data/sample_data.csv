@@ -482,3 +482,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2026-02-02 12:17:43: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2026-02-05 13:12:35: refactor: Improve dashboard layout and responsiveness
+
+# Change on 2026-03-04 13:58:34: test: Add unit tests for XAI explanation generation
