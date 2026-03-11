@@ -486,3 +486,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2026-03-04 13:58:34: test: Add unit tests for XAI explanation generation
 
 # Change on 2026-03-10 11:42:59: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2026-03-11 10:49:56: feat: Integrate LIME and SHAP explainers into the dashboard
