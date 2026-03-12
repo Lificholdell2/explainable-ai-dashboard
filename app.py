@@ -570,3 +570,5 @@ if __name__ == '__main__':
 # Change on 2026-03-10 09:53:53: perf: Optimize visualization rendering for large datasets
 
 # Change on 2026-03-10 15:37:21: security: Implement user authentication for dashboard access
+
+# Change on 2026-03-12 16:47:43: feat: Integrate LIME and SHAP explainers into the dashboard
