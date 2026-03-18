@@ -574,3 +574,5 @@ if __name__ == '__main__':
 # Change on 2026-03-12 16:47:43: feat: Integrate LIME and SHAP explainers into the dashboard
 
 # Change on 2026-03-17 17:25:56: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2026-03-18 13:53:07: fix: Resolve issues with interactive graph updates
