@@ -457,3 +457,5 @@ class LimeExplainer:
 # Change on 2026-03-16 14:02:10: test: Add unit tests for XAI explanation generation
 
 # Change on 2026-03-17 12:36:18: docs: Update usage instructions for running the XAI dashboard
+
+# Change on 2026-03-18 13:53:47: perf: Optimize visualization rendering for large datasets
