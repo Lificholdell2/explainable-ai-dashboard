@@ -425,3 +425,5 @@ class ShapExplainer:
 # Change on 2026-02-27 14:28:12: refactor: Modularize XAI method implementations
 
 # Change on 2026-03-04 10:35:20: feat: Integrate LIME and SHAP explainers into the dashboard
+
+# Change on 2026-03-19 11:59:34: feat: Add support for new XAI methods (e.g., Grad-CAM)
