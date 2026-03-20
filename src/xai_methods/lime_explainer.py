@@ -459,3 +459,5 @@ class LimeExplainer:
 # Change on 2026-03-17 12:36:18: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2026-03-18 13:53:47: perf: Optimize visualization rendering for large datasets
+
+# Change on 2026-03-20 10:09:02: chore: Upgrade Dash and Plotly dependencies
