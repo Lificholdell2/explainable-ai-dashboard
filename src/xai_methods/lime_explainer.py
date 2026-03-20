@@ -461,3 +461,5 @@ class LimeExplainer:
 # Change on 2026-03-18 13:53:47: perf: Optimize visualization rendering for large datasets
 
 # Change on 2026-03-20 10:09:02: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2026-03-20 13:35:35: fix: Correct data loading and preprocessing for XAI models
