@@ -580,3 +580,5 @@ if __name__ == '__main__':
 # Change on 2026-03-19 15:12:24: fix: Resolve issues with interactive graph updates
 
 # Change on 2026-03-25 17:02:26: feat: Add support for new XAI methods (e.g., Grad-CAM)
+
+# Change on 2026-03-26 09:40:59: chore: Upgrade Dash and Plotly dependencies
