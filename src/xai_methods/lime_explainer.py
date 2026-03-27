@@ -469,3 +469,5 @@ class LimeExplainer:
 # Change on 2026-03-23 16:00:25: build: Set up Dockerfile for dashboard deployment
 
 # Change on 2026-03-27 14:37:56: style: Apply consistent styling to dashboard components
+
+# Change on 2026-03-27 12:15:47: feat: Add support for new XAI methods (e.g., Grad-CAM)
