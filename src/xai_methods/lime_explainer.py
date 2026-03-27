@@ -467,3 +467,5 @@ class LimeExplainer:
 # Change on 2026-03-23 13:52:17: test: Add unit tests for XAI explanation generation
 
 # Change on 2026-03-23 16:00:25: build: Set up Dockerfile for dashboard deployment
+
+# Change on 2026-03-27 14:37:56: style: Apply consistent styling to dashboard components
