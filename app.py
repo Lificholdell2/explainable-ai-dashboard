@@ -582,3 +582,5 @@ if __name__ == '__main__':
 # Change on 2026-03-25 17:02:26: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2026-03-26 09:40:59: chore: Upgrade Dash and Plotly dependencies
+
+# Change on 2026-03-31 16:41:13: feat: Integrate LIME and SHAP explainers into the dashboard
