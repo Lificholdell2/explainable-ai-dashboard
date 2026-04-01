@@ -473,3 +473,5 @@ class LimeExplainer:
 # Change on 2026-03-27 12:15:47: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2026-04-01 09:23:18: docs: Create detailed API documentation for XAI components
+
+# Change on 2026-04-01 16:19:22: test: Add unit tests for XAI explanation generation
