@@ -429,3 +429,5 @@ class ShapExplainer:
 # Change on 2026-03-19 11:59:34: feat: Add support for new XAI methods (e.g., Grad-CAM)
 
 # Change on 2026-03-24 13:55:07: perf: Optimize visualization rendering for large datasets
+
+# Change on 2026-04-03 16:14:43: docs: Create detailed API documentation for XAI components
