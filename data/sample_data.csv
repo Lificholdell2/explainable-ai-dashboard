@@ -494,3 +494,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2026-03-18 15:42:07: style: Apply consistent styling to dashboard components
 
 # Change on 2026-04-07 09:53:27: security: Implement user authentication for dashboard access
+
+# Change on 2026-04-07 15:15:19: chore: Clean up unused visualization assets
