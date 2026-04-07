@@ -492,3 +492,5 @@ feature_A,feature_B,feature_C,feature_D,target
 # Change on 2026-03-16 14:19:37: docs: Update usage instructions for running the XAI dashboard
 
 # Change on 2026-03-18 15:42:07: style: Apply consistent styling to dashboard components
+
+# Change on 2026-04-07 09:53:27: security: Implement user authentication for dashboard access
