@@ -431,3 +431,5 @@ class ShapExplainer:
 # Change on 2026-03-24 13:55:07: perf: Optimize visualization rendering for large datasets
 
 # Change on 2026-04-03 16:14:43: docs: Create detailed API documentation for XAI components
+
+# Change on 2026-04-07 10:36:51: chore: Upgrade Dash and Plotly dependencies
