@@ -1,0 +1,9 @@
+import shap
+
+class ShapExplainer:
+    def __init__(self, model, data):
+        self.explainer = shap.Explainer(model, data)
+
+    def explain_instance(self, instance):
+        shap_values = self.explainer(instance)
+        return shap_values
